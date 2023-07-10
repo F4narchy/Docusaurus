@@ -11,8 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "hello",
+              "path": "/docs/hello",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OSCAdmin/guide-admin",
+              "path": "/docs/OSCAdmin/guide-admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OSCDocs Intro",
+              "path": "/docs/OSCDocs Intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OSCUtilisateur/guide-utilisateur",
+              "path": "/docs/OSCUtilisateur/guide-utilisateur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OSCUtilisateur/guide-utilisateur copy",
+              "path": "/docs/OSCUtilisateur/guide-utilisateur copy",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +78,16 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/oscdocs---admin",
+              "path": "/docs/category/oscdocs---admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/oscdocs---utilisateur",
+              "path": "/docs/category/oscdocs---utilisateur",
               "sidebar": "tutorialSidebar"
             },
             {

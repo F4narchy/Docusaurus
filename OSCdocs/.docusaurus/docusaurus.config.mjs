@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/fanarchy/OSCdocs/sidebars.js",
+          "sidebarPath": "/home/fanarchy/Docusaurus/OSCdocs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/fanarchy/OSCdocs/src/css/custom.css"
+          "customCss": "/home/fanarchy/Docusaurus/OSCdocs/src/css/custom.css"
         }
       }
     ]

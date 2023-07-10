@@ -1,0 +1,23 @@
+{
+  "unversionedId": "OSCDocs",
+  "id": "OSCDocs",
+  "title": "OSCDocs",
+  "description": "Bienvenue dans la documentation du site ! Cette page de présentation vous guidera à travers les différentes documentations disponibles pour vous aider à mieux comprendre le fonctionnement du site et à résoudre d'éventuels problèmes.",
+  "source": "@site/docs/OSCDocs.md",
+  "sourceDirName": ".",
+  "slug": "/OSCDocs",
+  "permalink": "/docs/OSCDocs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCDocs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

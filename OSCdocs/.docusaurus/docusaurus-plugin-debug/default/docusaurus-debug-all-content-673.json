@@ -15,10 +15,34 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/fanarchy/OSCdocs/sidebars.js",
-          "contentPath": "/home/fanarchy/OSCdocs/docs",
-          "contentPathLocalized": "/home/fanarchy/OSCdocs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/fanarchy/Docusaurus/OSCdocs/sidebars.js",
+          "contentPath": "/home/fanarchy/Docusaurus/OSCdocs/docs",
+          "contentPathLocalized": "/home/fanarchy/Docusaurus/OSCdocs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
+            {
+              "unversionedId": "hello",
+              "id": "hello",
+              "title": "Hello",
+              "description": "This is my first Docusaurus document!",
+              "source": "@site/docs/hello.md",
+              "sourceDirName": ".",
+              "slug": "/hello",
+              "permalink": "/docs/hello",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hello.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "Hi!",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
             {
               "unversionedId": "intro",
               "id": "intro",
@@ -32,11 +56,122 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": -1,
+              "frontMatter": {
+                "sidebar_position": -1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "OSCDocs Intro",
+                "permalink": "/docs/OSCDocs Intro"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/guide-admin",
+              "id": "OSCAdmin/guide-admin",
+              "title": "Documentation de Heimdall pour l'Administrateur",
+              "description": "Bienvenue dans la documentation de Heimdall destinée aux administrateurs système. Cette documentation a pour objectif de vous guider dans la configuration et la mise en place de l'infrastructure nécessaire pour utiliser Heimdall de manière optimale.",
+              "source": "@site/docs/OSCAdmin/guide-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/guide-admin",
+              "permalink": "/docs/OSCAdmin/guide-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/guide-admin.md",
+              "tags": [],
+              "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
+                "sidebar_label": "Guide admin",
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OSCDocs - Admin",
+                "permalink": "/docs/category/oscdocs---admin"
+              },
+              "next": {
+                "title": "OSCDocs - Utilisateur",
+                "permalink": "/docs/category/oscdocs---utilisateur"
+              }
+            },
+            {
+              "unversionedId": "OSCDocs Intro",
+              "id": "OSCDocs Intro",
+              "title": "OSCDocs Intro",
+              "description": "Bienvenue dans la documentation du site ! Cette page de présentation vous guidera à travers les différentes documentations disponibles pour vous aider à mieux comprendre le fonctionnement du site et à résoudre d'éventuels problèmes.",
+              "source": "@site/docs/OSCDocs Intro.md",
+              "sourceDirName": ".",
+              "slug": "/OSCDocs Intro",
+              "permalink": "/docs/OSCDocs Intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCDocs Intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "OSCDocs - Admin",
+                "permalink": "/docs/category/oscdocs---admin"
+              }
+            },
+            {
+              "unversionedId": "OSCUtilisateur/guide-utilisateur",
+              "id": "OSCUtilisateur/guide-utilisateur",
+              "title": "Guide de l'utilisateur pour Heimdall",
+              "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall ! Cette documentation a pour objectif de vous fournir toutes les informations nécessaires pour comprendre et utiliser Heimdall de manière efficace, même sans connaissance technique.",
+              "source": "@site/docs/OSCUtilisateur/guide-utilisateur.md",
+              "sourceDirName": "OSCUtilisateur",
+              "slug": "/OSCUtilisateur/guide-utilisateur",
+              "permalink": "/docs/OSCUtilisateur/guide-utilisateur",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/guide-utilisateur.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Guide utilisateur",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OSCDocs - Utilisateur",
+                "permalink": "/docs/category/oscdocs---utilisateur"
+              },
+              "next": {
+                "title": "Guide utilisateur old",
+                "permalink": "/docs/OSCUtilisateur/guide-utilisateur copy"
+              }
+            },
+            {
+              "unversionedId": "OSCUtilisateur/guide-utilisateur copy",
+              "id": "OSCUtilisateur/guide-utilisateur copy",
+              "title": "Guide utilisateur",
+              "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall, votre solution tout-en-un pour gérer facilement les différentes applications clientes. Heimdall vous permet d'accéder à plusieurs fonctionnalités essentielles, notamment le site web, les fichiers, le support, la caisse et les notes de frais.",
+              "source": "@site/docs/OSCUtilisateur/guide-utilisateur copy.md",
+              "sourceDirName": "OSCUtilisateur",
+              "slug": "/OSCUtilisateur/guide-utilisateur copy",
+              "permalink": "/docs/OSCUtilisateur/guide-utilisateur copy",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/guide-utilisateur copy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Guide utilisateur old",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guide utilisateur",
+                "permalink": "/docs/OSCUtilisateur/guide-utilisateur"
+              },
               "next": {
                 "title": "Tutorial - Basics",
                 "permalink": "/docs/category/tutorial---basics"
@@ -252,6 +387,10 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Hi!",
+                "permalink": "/docs/hello"
               }
             }
           ],
@@ -261,6 +400,53 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "OSCDocs Intro"
+              },
+              {
+                "type": "category",
+                "label": "OSCDocs - Admin",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/guide-admin",
+                    "label": "Guide admin"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/oscdocs---admin",
+                  "permalink": "/docs/category/oscdocs---admin"
+                }
+              },
+              {
+                "type": "category",
+                "label": "OSCDocs - Utilisateur",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "OSCUtilisateur/guide-utilisateur",
+                    "label": "Guide utilisateur"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCUtilisateur/guide-utilisateur copy",
+                    "label": "Guide utilisateur old"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/oscdocs---utilisateur",
+                  "permalink": "/docs/category/oscdocs---utilisateur"
+                }
               },
               {
                 "type": "category",
@@ -320,6 +506,11 @@
                   "slug": "/category/tutorial---extras",
                   "permalink": "/docs/category/tutorial---extras"
                 }
+              },
+              {
+                "type": "doc",
+                "id": "hello",
+                "label": "Hi!"
               }
             ]
           }
@@ -435,11 +626,79 @@
               "permalink": "/blog/welcome"
             },
             "nextItem": {
+              "title": "Greetings!",
+              "permalink": "/blog/greetings"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "greetings",
+          "metadata": {
+            "permalink": "/blog/greetings",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-02-28-greetings.md",
+            "source": "@site/blog/2021-02-28-greetings.md",
+            "title": "Greetings!",
+            "description": "Congratulations, you have made your first post!",
+            "date": "2021-02-28T00:00:00.000Z",
+            "formattedDate": "February 28, 2021",
+            "tags": [
+              {
+                "label": "greetings",
+                "permalink": "/blog/tags/greetings"
+              }
+            ],
+            "readingTime": 0.1,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Joel Marcey",
+                "title": "Co-creator of Docusaurus 1",
+                "url": "https://github.com/JoelMarcey",
+                "image_url": "https://github.com/JoelMarcey.png",
+                "imageURL": "https://github.com/JoelMarcey.png"
+              },
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "image_url": "https://github.com/slorber.png",
+                "imageURL": "https://github.com/slorber.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "greetings",
+              "title": "Greetings!",
+              "authors": [
+                {
+                  "name": "Joel Marcey",
+                  "title": "Co-creator of Docusaurus 1",
+                  "url": "https://github.com/JoelMarcey",
+                  "image_url": "https://github.com/JoelMarcey.png",
+                  "imageURL": "https://github.com/JoelMarcey.png"
+                },
+                {
+                  "name": "Sébastien Lorber",
+                  "title": "Docusaurus maintainer",
+                  "url": "https://sebastienlorber.com",
+                  "image_url": "https://github.com/slorber.png",
+                  "imageURL": "https://github.com/slorber.png"
+                }
+              ],
+              "tags": [
+                "greetings"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
               "title": "Long Blog Post",
               "permalink": "/blog/long-blog-post"
             }
           },
-          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+          "content": "Congratulations, you have made your first post!\n\nFeel free to play around and edit this post as much you like."
         },
         {
           "id": "long-blog-post",
@@ -482,8 +741,8 @@
               ]
             },
             "prevItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "Greetings!",
+              "permalink": "/blog/greetings"
             },
             "nextItem": {
               "title": "First Blog Post",
@@ -551,6 +810,7 @@
           "items": [
             "welcome",
             "mdx-blog-post",
+            "greetings",
             "long-blog-post",
             "first-blog-post"
           ],
@@ -559,7 +819,7 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 5,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }
@@ -643,6 +903,29 @@
             }
           ]
         },
+        "/blog/tags/greetings": {
+          "label": "greetings",
+          "items": [
+            "greetings"
+          ],
+          "permalink": "/blog/tags/greetings",
+          "pages": [
+            {
+              "items": [
+                "greetings"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/greetings",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
         "/blog/tags/hola": {
           "label": "hola",
           "items": [
@@ -686,6 +969,19 @@
         "frontMatter": {
           "title": "Markdown page example"
         }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/my-markdown-page",
+        "source": "@site/src/pages/my-markdown-page.md",
+        "title": "My Markdown page",
+        "description": "This is a Markdown page",
+        "frontMatter": {}
+      },
+      {
+        "type": "jsx",
+        "permalink": "/my-react-page",
+        "source": "@site/src/pages/my-react-page.js"
       }
     ]
   },
