@@ -1,6 +1,6 @@
 {
   "title": "OSCDocs - Admin",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "description": "Apprendre facilement à utiliser les outils côté admin pour améliorer nos performances !",
   "slug": "/category/oscdocs---admin",
   "permalink": "/docs/category/oscdocs---admin",
   "navigation": {
@@ -9,7 +9,7 @@
       "permalink": "/docs/OSCDocs Intro"
     },
     "next": {
-      "title": "Guide admin",
+      "title": "Guide Admin",
       "permalink": "/docs/OSCAdmin/guide-admin"
     }
   }

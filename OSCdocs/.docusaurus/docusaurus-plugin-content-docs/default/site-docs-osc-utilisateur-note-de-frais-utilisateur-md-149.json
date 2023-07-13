@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCUtilisateur/note-de-frais-utilisateur",
+  "id": "OSCUtilisateur/note-de-frais-utilisateur",
+  "title": "note-de-frais-utilisateur",
+  "description": "",
+  "source": "@site/docs/OSCUtilisateur/note-de-frais-utilisateur.md",
+  "sourceDirName": "OSCUtilisateur",
+  "slug": "/OSCUtilisateur/note-de-frais-utilisateur",
+  "permalink": "/docs/OSCUtilisateur/note-de-frais-utilisateur",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/note-de-frais-utilisateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Note de frais",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Caisse",
+    "permalink": "/docs/OSCUtilisateur/caisse-client"
+  },
+  "next": {
+    "title": "Guide utilisateur old",
+    "permalink": "/docs/OSCUtilisateur/guide-client-copy"
+  }
+}

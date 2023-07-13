@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/site-web-client",
+  "id": "OSCClient/site-web-client",
+  "title": "site-web-client",
+  "description": "",
+  "source": "@site/docs/OSCClient/site-web-client.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/site-web-client",
+  "permalink": "/OSCClient/site-web-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/site-web-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Site Web",
+    "sidebar_position": 3
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Heimdall",
+    "permalink": "/OSCClient/heimdall-client"
+  },
+  "next": {
+    "title": "Fichiers",
+    "permalink": "/OSCClient/fichiers-client"
+  }
+}

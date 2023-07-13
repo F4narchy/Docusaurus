@@ -1,112 +1,187 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
-          "mainDocId": "intro",
+          "path": "/",
+          "mainDocId": "oscdocs-intro",
           "docs": [
             {
-              "id": "hello",
-              "path": "/docs/hello",
-              "sidebar": "tutorialSidebar"
+              "id": "OSCAdmin/bitwarden-admin",
+              "path": "/OSCAdmin/bitwarden-admin",
+              "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "id": "OSCAdmin/grafana_admin",
+              "path": "/OSCAdmin/grafana_admin",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "OSCAdmin/guide-admin",
-              "path": "/docs/OSCAdmin/guide-admin",
-              "sidebar": "tutorialSidebar"
+              "path": "/OSCAdmin/guide-admin",
+              "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCDocs Intro",
-              "path": "/docs/OSCDocs Intro",
-              "sidebar": "tutorialSidebar"
+              "id": "OSCAdmin/heimdall-admin",
+              "path": "/OSCAdmin/heimdall-admin",
+              "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCUtilisateur/guide-utilisateur",
-              "path": "/docs/OSCUtilisateur/guide-utilisateur",
-              "sidebar": "tutorialSidebar"
+              "id": "OSCAdmin/honey-pot-admin",
+              "path": "/OSCAdmin/honey-pot-admin",
+              "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCUtilisateur/guide-utilisateur copy",
-              "path": "/docs/OSCUtilisateur/guide-utilisateur copy",
-              "sidebar": "tutorialSidebar"
+              "id": "OSCAdmin/odoo-admin",
+              "path": "/OSCAdmin/odoo-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/portainer-admin",
+              "path": "/OSCAdmin/portainer-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/uptime-kuma-admin",
+              "path": "/OSCAdmin/uptime-kuma-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/zabbix-admin",
+              "path": "/OSCAdmin/zabbix-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/zammad-admin",
+              "path": "/OSCAdmin/zammad-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/caisse-client",
+              "path": "/OSCClient/caisse-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/fichiers-client",
+              "path": "/OSCClient/fichiers-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/guide-client",
+              "path": "/OSCClient/guide-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/guide-client-copy",
+              "path": "/OSCClient/guide-client-copy",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/guide-client-copy-old",
+              "path": "/OSCClient/guide-client-copy-old",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/heimdall-client",
+              "path": "/OSCClient/heimdall-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/note-de-frais-client",
+              "path": "/OSCClient/note-de-frais-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/site-web-client",
+              "path": "/OSCClient/site-web-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/support-et-maintenance-client",
+              "path": "/OSCClient/support-et-maintenance-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/test",
+              "path": "/OSCClient/test",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "oscdocs-intro",
+              "path": "/oscdocs-intro",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/congratulations",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/create-a-blog-post",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/create-a-document",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/create-a-page",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/deploy-your-site",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/markdown-features",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-extras/manage-docs-versions",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-extras/translate-your-site",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "/category/oscdocs---admin",
-              "path": "/docs/category/oscdocs---admin",
-              "sidebar": "tutorialSidebar"
+              "path": "/category/oscdocs---admin",
+              "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---utilisateur",
-              "path": "/docs/category/oscdocs---utilisateur",
-              "sidebar": "tutorialSidebar"
+              "id": "/category/oscdocs---client",
+              "path": "/category/oscdocs---client",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
+              "path": "/category/tutorial---basics",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
+              "path": "/category/tutorial---extras",
+              "sidebar": "oscdocsSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "oscdocsSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/oscdocs-intro",
+                "label": "oscdocs-intro"
               }
             }
           }

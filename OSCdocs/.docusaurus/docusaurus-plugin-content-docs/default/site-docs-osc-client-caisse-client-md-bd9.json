@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/caisse-client",
+  "id": "OSCClient/caisse-client",
+  "title": "caisse-client",
+  "description": "",
+  "source": "@site/docs/OSCClient/caisse-client.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/caisse-client",
+  "permalink": "/OSCClient/caisse-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/caisse-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Caisse",
+    "sidebar_position": 6
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Support & Maintenance",
+    "permalink": "/OSCClient/support-et-maintenance-client"
+  },
+  "next": {
+    "title": "Note de frais",
+    "permalink": "/OSCClient/note-de-frais-client"
+  }
+}

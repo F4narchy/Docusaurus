@@ -1,16 +1,16 @@
 {
   "title": "OSCDocs - Utilisateur",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances ! Cette documentation vise à fournir aux clients de notre entreprise une ressource de formation complète et conviviale pour les différentes fonctionnalités et domaines d'intérêt spécifiques à notre projet. En utilisant Docusaurus, une plateforme de documentation web statique, nous avons créé des sections dédiées à différentes parties du système, afin de permettre aux clients d'apprendre et de se familiariser avec les fonctionnalités clés de manière efficace et autonome.",
   "slug": "/category/oscdocs---utilisateur",
   "permalink": "/docs/category/oscdocs---utilisateur",
   "navigation": {
     "previous": {
-      "title": "Guide admin",
-      "permalink": "/docs/OSCAdmin/guide-admin"
+      "title": "Grafana",
+      "permalink": "/docs/OSCAdmin/grafana_admin"
     },
     "next": {
       "title": "Guide utilisateur",
-      "permalink": "/docs/OSCUtilisateur/guide-utilisateur"
+      "permalink": "/docs/OSCClient/guide-client"
     }
   }
 }

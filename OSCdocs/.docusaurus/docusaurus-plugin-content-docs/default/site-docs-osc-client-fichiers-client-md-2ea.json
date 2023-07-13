@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/fichiers-client",
+  "id": "OSCClient/fichiers-client",
+  "title": "fichiers-client",
+  "description": "",
+  "source": "@site/docs/OSCClient/fichiers-client.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/fichiers-client",
+  "permalink": "/OSCClient/fichiers-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/fichiers-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Fichiers",
+    "sidebar_position": 4
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Site Web",
+    "permalink": "/OSCClient/site-web-client"
+  },
+  "next": {
+    "title": "Support & Maintenance",
+    "permalink": "/OSCClient/support-et-maintenance-client"
+  }
+}

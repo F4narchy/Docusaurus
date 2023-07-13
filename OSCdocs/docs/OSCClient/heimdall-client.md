@@ -1,13 +1,9 @@
 ---
-sidebar_label: 'Guide utilisateur'
+sidebar_label: 'Heimdall'
 sidebar_position: 2
 ---
 
-# Guide de l'utilisateur pour Heimdall
-
-Bienvenue dans le guide de l'utilisateur pour Heimdall ! Cette documentation a pour objectif de vous fournir toutes les informations nécessaires pour comprendre et utiliser Heimdall de manière efficace, même sans connaissance technique.
-
-## Introduction à Heimdall
+# Introduction à Heimdall
 
 Heimdall est une plateforme de gestion de contenu conviviale qui vous permet de créer et de gérer facilement votre site web, sans avoir besoin de compétences techniques approfondies. Voici quelques points importants à connaître :
 
@@ -40,4 +36,3 @@ Suivez les guides pas à pas et les conseils pratiques pour tirer le meilleur pa
 Si vous avez des questions supplémentaires ou besoin d'une assistance, n'hésitez pas à consulter cette documentation ou à contacter notre équipe d'assistance.
 
 Bonne utilisation de Heimdall !
-

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/odoo-admin",
+  "id": "OSCAdmin/odoo-admin",
+  "title": "odoo-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/odoo-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/odoo-admin",
+  "permalink": "/OSCAdmin/odoo-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/odoo-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Odoo",
+    "sidebar_position": 6
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Uptime Kuma",
+    "permalink": "/OSCAdmin/uptime-kuma-admin"
+  },
+  "next": {
+    "title": "Portainer",
+    "permalink": "/OSCAdmin/portainer-admin"
+  }
+}

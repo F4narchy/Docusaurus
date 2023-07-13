@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/Zammad-admin",
+  "id": "OSCAdmin/Zammad-admin",
+  "title": "Zammad-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/Zammad-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/Zammad-admin",
+  "permalink": "/docs/OSCAdmin/Zammad-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/Zammad-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Uptime Kuma",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Zabbix",
+    "permalink": "/docs/OSCAdmin/zabbix-admin"
+  },
+  "next": {
+    "title": "Support & Maintenance",
+    "permalink": "/docs/OSCAdmin/uptime-kuma-admin"
+  }
+}

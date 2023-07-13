@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/zabbix-admin",
+  "id": "OSCAdmin/zabbix-admin",
+  "title": "zabbix-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/zabbix-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/zabbix-admin",
+  "permalink": "/OSCAdmin/zabbix-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/zabbix-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Zabbix",
+    "sidebar_position": 3
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Heimdall",
+    "permalink": "/OSCAdmin/heimdall-admin"
+  },
+  "next": {
+    "title": "Zammad",
+    "permalink": "/OSCAdmin/zammad-admin"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/greetings",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-02-28-greetings.md",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2021-02-28-greetings.md",
   "source": "@site/blog/2021-02-28-greetings.md",
   "title": "Greetings!",
   "description": "Congratulations, you have made your first post!",

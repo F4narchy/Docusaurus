@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/site-web-utilisateur",
+  "id": "OSCAdmin/site-web-utilisateur",
+  "title": "site-web-utilisateur",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/site-web-utilisateur.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/site-web-utilisateur",
+  "permalink": "/docs/OSCAdmin/site-web-utilisateur",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/site-web-utilisateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Site Web",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heimdall utilisateur",
+    "permalink": "/docs/OSCAdmin/heimdall-admin"
+  },
+  "next": {
+    "title": "Fichiers",
+    "permalink": "/docs/OSCAdmin/fichiers-admin"
+  }
+}

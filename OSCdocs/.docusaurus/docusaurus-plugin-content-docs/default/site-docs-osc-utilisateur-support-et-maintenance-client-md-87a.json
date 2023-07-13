@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCUtilisateur/support-et-maintenance-client",
+  "id": "OSCUtilisateur/support-et-maintenance-client",
+  "title": "support-et-maintenance-client",
+  "description": "",
+  "source": "@site/docs/OSCUtilisateur/support-et-maintenance-client.md",
+  "sourceDirName": "OSCUtilisateur",
+  "slug": "/OSCUtilisateur/support-et-maintenance-client",
+  "permalink": "/docs/OSCUtilisateur/support-et-maintenance-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/support-et-maintenance-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Support & Maintenance",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fichiers",
+    "permalink": "/docs/OSCUtilisateur/fichiers-client"
+  },
+  "next": {
+    "title": "Caisse",
+    "permalink": "/docs/OSCUtilisateur/caisse-client"
+  }
+}

@@ -6,23 +6,23 @@
   "source": "@site/docs/OSCAdmin/guide-admin.md",
   "sourceDirName": "OSCAdmin",
   "slug": "/OSCAdmin/guide-admin",
-  "permalink": "/docs/OSCAdmin/guide-admin",
+  "permalink": "/OSCAdmin/guide-admin",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/guide-admin.md",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/guide-admin.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_label": "Guide admin",
+    "sidebar_label": "Guide Admin",
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "oscdocsSidebar",
   "previous": {
     "title": "OSCDocs - Admin",
-    "permalink": "/docs/category/oscdocs---admin"
+    "permalink": "/category/oscdocs---admin"
   },
   "next": {
-    "title": "OSCDocs - Utilisateur",
-    "permalink": "/docs/category/oscdocs---utilisateur"
+    "title": "Heimdall",
+    "permalink": "/OSCAdmin/heimdall-admin"
   }
 }

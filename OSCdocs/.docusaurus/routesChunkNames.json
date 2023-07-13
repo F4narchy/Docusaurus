@@ -88,7 +88,7 @@
       "plugin": "plugin---blog-281-4d0"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-02-28-greetingsa-7-a-4b0"
+    "content": "content---blog-greetingsa-7-a-c48"
   },
   "/blog/long-blog-post-775": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -204,111 +204,157 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-8ff": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/index%20copy-57b": {
+    "__comp": "__comp---site-src-pages-index-copy-tsxddc-f6b",
     "__context": {
-      "plugin": "plugin---markdown-page-06-d-c12"
+      "plugin": "plugin---index-20-copy-06-d-203"
     },
-    "content": "content---markdown-page-393-028"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
-  "/my-markdown-page-6a5": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/-6d2": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-page-06-d-c12"
+      "plugin": "plugin---index-20-copy-06-d-203"
     },
-    "content": "content---my-markdown-page-031-4dc"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
-  "/my-react-page-a04": {
-    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
-    "__context": {
-      "plugin": "plugin---markdown-page-06-d-c12"
-    },
-    "config": "config---5-e-9-4f3"
-  },
-  "/docs-3db": {
+  "/-498": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-7-c-8-f8a"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/oscdocs---admin-714": {
+  "/category/oscdocs---admin-ca9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-oscdocs-admin-444-eda"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-admin-751-8f9"
   },
-  "/docs/category/oscdocs---utilisateur-d3f": {
+  "/category/oscdocs---client-20e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-oscdocs-utilisateur-595-389"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-clienta-73-a33"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/category/tutorial---basics-436": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-basics-0-fa-265"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/category/tutorial---extras-521": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-extrasf-6-f-e8d"
   },
-  "/docs/hello-7a8": {
+  "/OSCAdmin/bitwarden-admin-4df": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hello-9-df-13a"
+    "content": "content---docs-osc-admin-bitwarden-admin-880-91c"
   },
-  "/docs/intro-aed": {
+  "/OSCAdmin/grafana_admin-d3c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-osc-admin-grafana-admin-225-4a7"
   },
-  "/docs/OSCAdmin/guide-admin-36c": {
+  "/OSCAdmin/guide-admin-b2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-osc-admin-guide-admin-83-a-46c"
   },
-  "/docs/OSCDocs Intro-783": {
+  "/OSCAdmin/heimdall-admin-d96": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-osc-docs-intro-5-f-2-f78"
+    "content": "content---docs-osc-admin-heimdall-adminbee-47b"
   },
-  "/docs/OSCUtilisateur/guide-utilisateur-bdd": {
+  "/OSCAdmin/honey-pot-admin-b93": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-osc-utilisateur-guide-utilisateurbdd-b1f"
+    "content": "content---docs-osc-admin-honey-pot-admin-064-f18"
   },
-  "/docs/OSCUtilisateur/guide-utilisateur copy-90e": {
+  "/OSCAdmin/odoo-admin-3b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-osc-utilisateur-guide-utilisateur-copy-420-5eb"
+    "content": "content---docs-osc-admin-odoo-admin-158-e89"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/OSCAdmin/portainer-admin-613": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-admin-portainer-admincf-8-e0c"
+  },
+  "/OSCAdmin/uptime-kuma-admin-b8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-admin-uptime-kuma-admin-4-c-9-b8e"
+  },
+  "/OSCAdmin/zabbix-admin-d38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-admin-zabbix-admin-720-494"
+  },
+  "/OSCAdmin/zammad-admin-63d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-admin-zammad-admin-7-be-822"
+  },
+  "/OSCClient/caisse-client-fb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-caisse-clientbd-9-569"
+  },
+  "/OSCClient/fichiers-client-5d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-fichiers-client-2-ea-aa0"
+  },
+  "/OSCClient/guide-client-f2a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-guide-client-721-5a7"
+  },
+  "/OSCClient/guide-client-copy-f63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-guide-client-copy-452-39d"
+  },
+  "/OSCClient/guide-client-copy-old-425": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-guide-client-copy-old-106-6a4"
+  },
+  "/OSCClient/heimdall-client-81b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-heimdall-clientfac-510"
+  },
+  "/OSCClient/note-de-frais-client-470": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-note-de-frais-cliente-54-120"
+  },
+  "/OSCClient/site-web-client-29b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-site-web-client-346-76d"
+  },
+  "/OSCClient/support-et-maintenance-client-414": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-osc-client-support-et-maintenance-client-78-c-105"
+  },
+  "/OSCClient/test-b8b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-testf-5-a-b09"
+  },
+  "/oscdocs-intro-fe8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-oscdocs-introd-02-98f"
+  },
+  "/tutorial-basics/congratulations-058": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/tutorial-basics/create-a-blog-post-f87": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/tutorial-basics/create-a-document-3f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/tutorial-basics/create-a-page-744": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/tutorial-basics/deploy-your-site-919": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/tutorial-basics/markdown-features-62c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/tutorial-extras/manage-docs-versions-367": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/tutorial-extras/translate-your-site-a1c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
-  },
-  "/-6d2": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
-    "__context": {
-      "plugin": "plugin---markdown-page-06-d-c12"
-    },
-    "config": "config---5-e-9-4f3"
   }
 }

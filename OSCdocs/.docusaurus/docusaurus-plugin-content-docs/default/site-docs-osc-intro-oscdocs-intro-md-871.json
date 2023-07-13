@@ -1,0 +1,23 @@
+{
+  "unversionedId": "OSCIntro/oscdocs-intro",
+  "id": "OSCIntro/oscdocs-intro",
+  "title": "OSCDocs Intro",
+  "description": "Bienvenue dans la documentation du site ! Cette page de présentation vous guidera à travers les différentes documentations disponibles pour vous aider à mieux comprendre le fonctionnement du site et à résoudre d'éventuels problèmes.",
+  "source": "@site/docs/OSCIntro/oscdocs-intro.md",
+  "sourceDirName": "OSCIntro",
+  "slug": "/OSCIntro/oscdocs-intro",
+  "permalink": "/OSCIntro/oscdocs-intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCIntro/oscdocs-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "oscdocsSidebar",
+  "next": {
+    "title": "OSCDocs - Admin",
+    "permalink": "/category/oscdocs---admin"
+  }
+}

@@ -8,18 +8,12 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
-      {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
-      },
+    "oscdocsSidebar": [
       {
         "type": "link",
         "label": "OSCDocs Intro",
-        "href": "/docs/OSCDocs Intro",
-        "docId": "OSCDocs Intro"
+        "href": "/oscdocs-intro",
+        "docId": "oscdocs-intro"
       },
       {
         "type": "category",
@@ -29,33 +23,135 @@
         "items": [
           {
             "type": "link",
-            "label": "Guide admin",
-            "href": "/docs/OSCAdmin/guide-admin",
+            "label": "Guide Admin",
+            "href": "/OSCAdmin/guide-admin",
             "docId": "OSCAdmin/guide-admin"
+          },
+          {
+            "type": "link",
+            "label": "Heimdall",
+            "href": "/OSCAdmin/heimdall-admin",
+            "docId": "OSCAdmin/heimdall-admin"
+          },
+          {
+            "type": "link",
+            "label": "Zabbix",
+            "href": "/OSCAdmin/zabbix-admin",
+            "docId": "OSCAdmin/zabbix-admin"
+          },
+          {
+            "type": "link",
+            "label": "Zammad",
+            "href": "/OSCAdmin/zammad-admin",
+            "docId": "OSCAdmin/zammad-admin"
+          },
+          {
+            "type": "link",
+            "label": "Uptime Kuma",
+            "href": "/OSCAdmin/uptime-kuma-admin",
+            "docId": "OSCAdmin/uptime-kuma-admin"
+          },
+          {
+            "type": "link",
+            "label": "Odoo",
+            "href": "/OSCAdmin/odoo-admin",
+            "docId": "OSCAdmin/odoo-admin"
+          },
+          {
+            "type": "link",
+            "label": "Portainer",
+            "href": "/OSCAdmin/portainer-admin",
+            "docId": "OSCAdmin/portainer-admin"
+          },
+          {
+            "type": "link",
+            "label": "Honey Pot",
+            "href": "/OSCAdmin/honey-pot-admin",
+            "docId": "OSCAdmin/honey-pot-admin"
+          },
+          {
+            "type": "link",
+            "label": "Bitwarden",
+            "href": "/OSCAdmin/bitwarden-admin",
+            "docId": "OSCAdmin/bitwarden-admin"
+          },
+          {
+            "type": "link",
+            "label": "Grafana",
+            "href": "/OSCAdmin/grafana_admin",
+            "docId": "OSCAdmin/grafana_admin"
           }
         ],
-        "href": "/docs/category/oscdocs---admin"
+        "href": "/category/oscdocs---admin"
       },
       {
         "type": "category",
-        "label": "OSCDocs - Utilisateur",
+        "label": "OSCDocs - Client",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Guide utilisateur",
-            "href": "/docs/OSCUtilisateur/guide-utilisateur",
-            "docId": "OSCUtilisateur/guide-utilisateur"
+            "label": "Guide Client",
+            "href": "/OSCClient/guide-client",
+            "docId": "OSCClient/guide-client"
+          },
+          {
+            "type": "link",
+            "label": "Heimdall",
+            "href": "/OSCClient/heimdall-client",
+            "docId": "OSCClient/heimdall-client"
+          },
+          {
+            "type": "link",
+            "label": "Site Web",
+            "href": "/OSCClient/site-web-client",
+            "docId": "OSCClient/site-web-client"
+          },
+          {
+            "type": "link",
+            "label": "Fichiers",
+            "href": "/OSCClient/fichiers-client",
+            "docId": "OSCClient/fichiers-client"
+          },
+          {
+            "type": "link",
+            "label": "Support & Maintenance",
+            "href": "/OSCClient/support-et-maintenance-client",
+            "docId": "OSCClient/support-et-maintenance-client"
+          },
+          {
+            "type": "link",
+            "label": "Caisse",
+            "href": "/OSCClient/caisse-client",
+            "docId": "OSCClient/caisse-client"
+          },
+          {
+            "type": "link",
+            "label": "Note de frais",
+            "href": "/OSCClient/note-de-frais-client",
+            "docId": "OSCClient/note-de-frais-client"
           },
           {
             "type": "link",
             "label": "Guide utilisateur old",
-            "href": "/docs/OSCUtilisateur/guide-utilisateur copy",
-            "docId": "OSCUtilisateur/guide-utilisateur copy"
+            "href": "/OSCClient/guide-client-copy",
+            "docId": "OSCClient/guide-client-copy"
+          },
+          {
+            "type": "link",
+            "label": "test",
+            "href": "/OSCClient/test",
+            "docId": "OSCClient/test"
+          },
+          {
+            "type": "link",
+            "label": "Guide utilisateur old 2",
+            "href": "/OSCClient/guide-client-copy-old",
+            "docId": "OSCClient/guide-client-copy-old"
           }
         ],
-        "href": "/docs/category/oscdocs---utilisateur"
+        "href": "/category/oscdocs---client"
       },
       {
         "type": "category",
@@ -66,41 +162,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
+            "href": "/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
+            "href": "/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "href": "/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
+            "href": "/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
+            "href": "/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -111,110 +207,194 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "href": "/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
+            "href": "/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/docs/category/tutorial---extras"
-      },
-      {
-        "type": "link",
-        "label": "Hi!",
-        "href": "/docs/hello",
-        "docId": "hello"
+        "href": "/category/tutorial---extras"
       }
     ]
   },
   "docs": {
-    "hello": {
-      "id": "hello",
-      "title": "Hello",
-      "description": "This is my first Docusaurus document!",
-      "sidebar": "tutorialSidebar"
+    "OSCAdmin/bitwarden-admin": {
+      "id": "OSCAdmin/bitwarden-admin",
+      "title": "bitwarden-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
     },
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
-      "sidebar": "tutorialSidebar"
+    "OSCAdmin/grafana_admin": {
+      "id": "OSCAdmin/grafana_admin",
+      "title": "grafana_admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
     },
     "OSCAdmin/guide-admin": {
       "id": "OSCAdmin/guide-admin",
       "title": "Documentation de Heimdall pour l'Administrateur",
       "description": "Bienvenue dans la documentation de Heimdall destinée aux administrateurs système. Cette documentation a pour objectif de vous guider dans la configuration et la mise en place de l'infrastructure nécessaire pour utiliser Heimdall de manière optimale.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
-    "OSCDocs Intro": {
-      "id": "OSCDocs Intro",
-      "title": "OSCDocs Intro",
-      "description": "Bienvenue dans la documentation du site ! Cette page de présentation vous guidera à travers les différentes documentations disponibles pour vous aider à mieux comprendre le fonctionnement du site et à résoudre d'éventuels problèmes.",
-      "sidebar": "tutorialSidebar"
+    "OSCAdmin/heimdall-admin": {
+      "id": "OSCAdmin/heimdall-admin",
+      "title": "heimdall-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
     },
-    "OSCUtilisateur/guide-utilisateur": {
-      "id": "OSCUtilisateur/guide-utilisateur",
+    "OSCAdmin/honey-pot-admin": {
+      "id": "OSCAdmin/honey-pot-admin",
+      "title": "honey-pot-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCAdmin/odoo-admin": {
+      "id": "OSCAdmin/odoo-admin",
+      "title": "odoo-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCAdmin/portainer-admin": {
+      "id": "OSCAdmin/portainer-admin",
+      "title": "portainer-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCAdmin/uptime-kuma-admin": {
+      "id": "OSCAdmin/uptime-kuma-admin",
+      "title": "uptime-kuma-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCAdmin/zabbix-admin": {
+      "id": "OSCAdmin/zabbix-admin",
+      "title": "zabbix-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCAdmin/zammad-admin": {
+      "id": "OSCAdmin/zammad-admin",
+      "title": "zammad-admin",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/caisse-client": {
+      "id": "OSCClient/caisse-client",
+      "title": "caisse-client",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/fichiers-client": {
+      "id": "OSCClient/fichiers-client",
+      "title": "fichiers-client",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/guide-client": {
+      "id": "OSCClient/guide-client",
+      "title": "Documentation de formation - Guide Client",
+      "description": "Introduction",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/guide-client-copy": {
+      "id": "OSCClient/guide-client-copy",
+      "title": "Documentation de formation - Guide Client",
+      "description": "Introduction",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/guide-client-copy-old": {
+      "id": "OSCClient/guide-client-copy-old",
       "title": "Guide de l'utilisateur pour Heimdall",
       "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall ! Cette documentation a pour objectif de vous fournir toutes les informations nécessaires pour comprendre et utiliser Heimdall de manière efficace, même sans connaissance technique.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
-    "OSCUtilisateur/guide-utilisateur copy": {
-      "id": "OSCUtilisateur/guide-utilisateur copy",
-      "title": "Guide utilisateur",
-      "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall, votre solution tout-en-un pour gérer facilement les différentes applications clientes. Heimdall vous permet d'accéder à plusieurs fonctionnalités essentielles, notamment le site web, les fichiers, le support, la caisse et les notes de frais.",
-      "sidebar": "tutorialSidebar"
+    "OSCClient/heimdall-client": {
+      "id": "OSCClient/heimdall-client",
+      "title": "Introduction à Heimdall",
+      "description": "Heimdall est une plateforme de gestion de contenu conviviale qui vous permet de créer et de gérer facilement votre site web, sans avoir besoin de compétences techniques approfondies. Voici quelques points importants à connaître :",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/note-de-frais-client": {
+      "id": "OSCClient/note-de-frais-client",
+      "title": "note-de-frais-client",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/site-web-client": {
+      "id": "OSCClient/site-web-client",
+      "title": "site-web-client",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/support-et-maintenance-client": {
+      "id": "OSCClient/support-et-maintenance-client",
+      "title": "support-et-maintenance-client",
+      "description": "",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/test": {
+      "id": "OSCClient/test",
+      "title": "Documentation de formation pour les clients",
+      "description": "Introduction",
+      "sidebar": "oscdocsSidebar"
+    },
+    "oscdocs-intro": {
+      "id": "oscdocs-intro",
+      "title": "OSCDocs Intro",
+      "description": "Bienvenue dans la documentation du site ! Cette page de présentation vous guidera à travers les différentes documentations disponibles pour vous aider à mieux comprendre le fonctionnement du site et à résoudre d'éventuels problèmes.",
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-basics/congratulations": {
       "id": "tutorial-basics/congratulations",
       "title": "Congratulations!",
       "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-basics/create-a-blog-post": {
       "id": "tutorial-basics/create-a-blog-post",
       "title": "Create a Blog Post",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-basics/create-a-document": {
       "id": "tutorial-basics/create-a-document",
       "title": "Create a Document",
       "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-basics/create-a-page": {
       "id": "tutorial-basics/create-a-page",
       "title": "Create a Page",
       "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-basics/deploy-your-site": {
       "id": "tutorial-basics/deploy-your-site",
       "title": "Deploy your site",
       "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-basics/markdown-features": {
       "id": "tutorial-basics/markdown-features",
       "title": "Markdown Features",
       "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-extras/manage-docs-versions": {
       "id": "tutorial-extras/manage-docs-versions",
       "title": "Manage Docs Versions",
       "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     },
     "tutorial-extras/translate-your-site": {
       "id": "tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "oscdocsSidebar"
     }
   }
 }

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Guide admin'
+sidebar_label: 'Guide Admin'
 sidebar_position: 1
 ---
 

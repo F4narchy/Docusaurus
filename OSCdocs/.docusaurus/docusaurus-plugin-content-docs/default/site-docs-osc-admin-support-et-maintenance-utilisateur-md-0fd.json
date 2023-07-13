@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/support-et-maintenance-utilisateur",
+  "id": "OSCAdmin/support-et-maintenance-utilisateur",
+  "title": "support-et-maintenance-utilisateur",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/support-et-maintenance-utilisateur.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/support-et-maintenance-utilisateur",
+  "permalink": "/docs/OSCAdmin/support-et-maintenance-utilisateur",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/support-et-maintenance-utilisateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Support & Maintenance",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fichiers",
+    "permalink": "/docs/OSCAdmin/fichiers-admin"
+  },
+  "next": {
+    "title": "Caisse",
+    "permalink": "/docs/OSCAdmin/caisse-admin"
+  }
+}

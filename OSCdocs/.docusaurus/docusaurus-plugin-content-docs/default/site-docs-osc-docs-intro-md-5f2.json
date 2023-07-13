@@ -6,22 +6,18 @@
   "source": "@site/docs/OSCDocs Intro.md",
   "sourceDirName": ".",
   "slug": "/OSCDocs Intro",
-  "permalink": "/docs/OSCDocs Intro",
+  "permalink": "/OSCDocs Intro",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCDocs Intro.md",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCDocs Intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_position": 0
   },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Tutorial Intro",
-    "permalink": "/docs/intro"
-  },
+  "sidebar": "oscdocsSidebar",
   "next": {
     "title": "OSCDocs - Admin",
-    "permalink": "/docs/category/oscdocs---admin"
+    "permalink": "/category/oscdocs---admin"
   }
 }
