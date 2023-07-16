@@ -61,53 +61,103 @@
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/caisse-client",
-              "path": "/OSCClient/caisse-client",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCClient/fichiers-client",
-              "path": "/OSCClient/fichiers-client",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
               "id": "OSCClient/guide-client",
               "path": "/OSCClient/guide-client",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/guide-client-copy",
-              "path": "/OSCClient/guide-client-copy",
+              "id": "OSCClient/Heimdall/Divers/en_construction",
+              "path": "/OSCClient/Heimdall/Divers/en_construction",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/guide-client-copy-old",
-              "path": "/OSCClient/guide-client-copy-old",
+              "id": "OSCClient/Heimdall/Finance/convert-en",
+              "path": "/OSCClient/Heimdall/Finance/convert-en",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/heimdall-client",
-              "path": "/OSCClient/heimdall-client",
+              "id": "OSCClient/Heimdall/Finance/en_construction",
+              "path": "/OSCClient/Heimdall/Finance/en_construction",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/note-de-frais-client",
-              "path": "/OSCClient/note-de-frais-client",
+              "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+              "path": "/OSCClient/Heimdall/Finance/note-de-frais-client",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/site-web-client",
-              "path": "/OSCClient/site-web-client",
+              "id": "OSCClient/Heimdall/Finance/test",
+              "path": "/OSCClient/Heimdall/Finance/test",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/support-et-maintenance-client",
-              "path": "/OSCClient/support-et-maintenance-client",
+              "id": "OSCClient/Heimdall/heimdall-client",
+              "path": "/OSCClient/Heimdall/heimdall-client",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/test",
-              "path": "/OSCClient/test",
+              "id": "OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "path": "/OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Marketing/en_construction",
+              "path": "/OSCClient/Heimdall/Marketing/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Productivité/en_construction",
+              "path": "/OSCClient/Heimdall/Productivité/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "path": "/OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Services/en_construction",
+              "path": "/OSCClient/Heimdall/Services/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Site Web/en_construction",
+              "path": "/OSCClient/Heimdall/Site Web/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Site Web/site-web-client",
+              "path": "/OSCClient/Heimdall/Site Web/site-web-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Support & Assistance/en_construction",
+              "path": "/OSCClient/Heimdall/Support & Assistance/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "path": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ventes/caisse-client",
+              "path": "/OSCClient/Heimdall/Ventes/caisse-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ventes/en_construction",
+              "path": "/OSCClient/Heimdall/Ventes/en_construction",
               "sidebar": "oscdocsSidebar"
             },
             {
@@ -163,6 +213,66 @@
             {
               "id": "/category/oscdocs---client",
               "path": "/category/oscdocs---client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---heimdall",
+              "path": "/category/oscdocs---heimdall",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---finance",
+              "path": "/category/oscdocs---finance",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---ventes",
+              "path": "/category/oscdocs---ventes",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---site-web",
+              "path": "/category/oscdocs---site-web",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---inventaire--mrp",
+              "path": "/category/oscdocs---inventaire--mrp",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---ressources-humaines",
+              "path": "/category/oscdocs---ressources-humaines",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---marketing",
+              "path": "/category/oscdocs---marketing",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---services",
+              "path": "/category/oscdocs---services",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---productivité",
+              "path": "/category/oscdocs---productivité",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---divers",
+              "path": "/category/oscdocs---divers",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---partage-de-fichiers",
+              "path": "/category/oscdocs---partage-de-fichiers",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---support--assistance",
+              "path": "/category/oscdocs---support--assistance",
               "sidebar": "oscdocsSidebar"
             },
             {

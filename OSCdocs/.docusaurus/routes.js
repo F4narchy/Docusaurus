@@ -114,7 +114,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '498'),
+    component: ComponentCreator('/', '3ae'),
     routes: [
       {
         path: '/category/oscdocs---admin',
@@ -125,6 +125,78 @@ export default [
       {
         path: '/category/oscdocs---client',
         component: ComponentCreator('/category/oscdocs---client', '20e'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---divers',
+        component: ComponentCreator('/category/oscdocs---divers', 'e19'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---finance',
+        component: ComponentCreator('/category/oscdocs---finance', '917'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---heimdall',
+        component: ComponentCreator('/category/oscdocs---heimdall', '4f1'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---inventaire--mrp',
+        component: ComponentCreator('/category/oscdocs---inventaire--mrp', '95a'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---marketing',
+        component: ComponentCreator('/category/oscdocs---marketing', '2b5'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---partage-de-fichiers',
+        component: ComponentCreator('/category/oscdocs---partage-de-fichiers', 'c93'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---productivité',
+        component: ComponentCreator('/category/oscdocs---productivité', 'd83'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---ressources-humaines',
+        component: ComponentCreator('/category/oscdocs---ressources-humaines', '483'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---services',
+        component: ComponentCreator('/category/oscdocs---services', '4b6'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---site-web',
+        component: ComponentCreator('/category/oscdocs---site-web', '1e5'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---support--assistance',
+        component: ComponentCreator('/category/oscdocs---support--assistance', 'fa3'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/oscdocs---ventes',
+        component: ComponentCreator('/category/oscdocs---ventes', '6e6'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
@@ -201,62 +273,122 @@ export default [
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/caisse-client',
-        component: ComponentCreator('/OSCClient/caisse-client', 'fb5'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCClient/fichiers-client',
-        component: ComponentCreator('/OSCClient/fichiers-client', '5d2'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
         path: '/OSCClient/guide-client',
         component: ComponentCreator('/OSCClient/guide-client', 'f2a'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/guide-client-copy',
-        component: ComponentCreator('/OSCClient/guide-client-copy', 'f63'),
+        path: '/OSCClient/Heimdall/Divers/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Divers/en_construction', '50d'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/guide-client-copy-old',
-        component: ComponentCreator('/OSCClient/guide-client-copy-old', '425'),
+        path: '/OSCClient/Heimdall/Finance/convert-en',
+        component: ComponentCreator('/OSCClient/Heimdall/Finance/convert-en', 'bf6'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/heimdall-client',
-        component: ComponentCreator('/OSCClient/heimdall-client', '81b'),
+        path: '/OSCClient/Heimdall/Finance/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Finance/en_construction', 'cc6'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/note-de-frais-client',
-        component: ComponentCreator('/OSCClient/note-de-frais-client', '470'),
+        path: '/OSCClient/Heimdall/Finance/note-de-frais-client',
+        component: ComponentCreator('/OSCClient/Heimdall/Finance/note-de-frais-client', '659'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/site-web-client',
-        component: ComponentCreator('/OSCClient/site-web-client', '29b'),
+        path: '/OSCClient/Heimdall/Finance/test',
+        component: ComponentCreator('/OSCClient/Heimdall/Finance/test', '8f4'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/support-et-maintenance-client',
-        component: ComponentCreator('/OSCClient/support-et-maintenance-client', '414'),
+        path: '/OSCClient/Heimdall/heimdall-client',
+        component: ComponentCreator('/OSCClient/Heimdall/heimdall-client', '8b3'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/test',
-        component: ComponentCreator('/OSCClient/test', 'b8b'),
+        path: '/OSCClient/Heimdall/Inventaire & MRP/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Inventaire & MRP/en_construction', '05f'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Marketing/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Marketing/en_construction', '270'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Partage de Fichiers/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Partage de Fichiers/en_construction', '891'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Partage de Fichiers/fichiers-client',
+        component: ComponentCreator('/OSCClient/Heimdall/Partage de Fichiers/fichiers-client', '0e5'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Productivité/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Productivité/en_construction', '106'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Ressources Humaines/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Ressources Humaines/en_construction', '2de'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Services/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Services/en_construction', '174'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Site Web/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Site Web/en_construction', 'cae'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Site Web/site-web-client',
+        component: ComponentCreator('/OSCClient/Heimdall/Site Web/site-web-client', '50f'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Support & Assistance/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Support & Assistance/en_construction', 'aaf'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client',
+        component: ComponentCreator('/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client', '4e8'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Ventes/caisse-client',
+        component: ComponentCreator('/OSCClient/Heimdall/Ventes/caisse-client', '130'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Ventes/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Ventes/en_construction', '417'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },

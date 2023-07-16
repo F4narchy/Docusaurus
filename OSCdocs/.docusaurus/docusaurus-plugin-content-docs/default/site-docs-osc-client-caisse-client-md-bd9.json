@@ -1,8 +1,8 @@
 {
   "unversionedId": "OSCClient/caisse-client",
   "id": "OSCClient/caisse-client",
-  "title": "caisse-client",
-  "description": "",
+  "title": "Documentation de formation pour \"Caisse\"",
+  "description": "Présentation de la section Caisse",
   "source": "@site/docs/OSCClient/caisse-client.md",
   "sourceDirName": "OSCClient",
   "slug": "/OSCClient/caisse-client",
@@ -18,11 +18,11 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Support & Maintenance",
-    "permalink": "/OSCClient/support-et-maintenance-client"
+    "title": "Support & Assistance",
+    "permalink": "/OSCClient/support-et-assistance-client"
   },
   "next": {
-    "title": "Note de frais",
-    "permalink": "/OSCClient/note-de-frais-client"
+    "title": "Guide utilisateur old",
+    "permalink": "/OSCClient/guide-client-copy"
   }
 }

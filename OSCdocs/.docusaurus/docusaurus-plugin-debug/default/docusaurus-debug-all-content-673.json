@@ -300,62 +300,6 @@
               }
             },
             {
-              "unversionedId": "OSCClient/caisse-client",
-              "id": "OSCClient/caisse-client",
-              "title": "caisse-client",
-              "description": "",
-              "source": "@site/docs/OSCClient/caisse-client.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/caisse-client",
-              "permalink": "/OSCClient/caisse-client",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/caisse-client.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_label": "Caisse",
-                "sidebar_position": 6
-              },
-              "sidebar": "oscdocsSidebar",
-              "previous": {
-                "title": "Support & Maintenance",
-                "permalink": "/OSCClient/support-et-maintenance-client"
-              },
-              "next": {
-                "title": "Note de frais",
-                "permalink": "/OSCClient/note-de-frais-client"
-              }
-            },
-            {
-              "unversionedId": "OSCClient/fichiers-client",
-              "id": "OSCClient/fichiers-client",
-              "title": "fichiers-client",
-              "description": "",
-              "source": "@site/docs/OSCClient/fichiers-client.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/fichiers-client",
-              "permalink": "/OSCClient/fichiers-client",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/fichiers-client.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_label": "Fichiers",
-                "sidebar_position": 4
-              },
-              "sidebar": "oscdocsSidebar",
-              "previous": {
-                "title": "Site Web",
-                "permalink": "/OSCClient/site-web-client"
-              },
-              "next": {
-                "title": "Support & Maintenance",
-                "permalink": "/OSCClient/support-et-maintenance-client"
-              }
-            },
-            {
               "unversionedId": "OSCClient/guide-client",
               "id": "OSCClient/guide-client",
               "title": "Documentation de formation - Guide Client",
@@ -379,60 +323,428 @@
                 "permalink": "/category/oscdocs---client"
               },
               "next": {
-                "title": "Heimdall",
-                "permalink": "/OSCClient/heimdall-client"
+                "title": "OSCDocs - Heimdall",
+                "permalink": "/category/oscdocs---heimdall"
               }
             },
             {
-              "unversionedId": "OSCClient/guide-client-copy",
-              "id": "OSCClient/guide-client-copy",
-              "title": "Documentation de formation - Guide Client",
-              "description": "Introduction",
-              "source": "@site/docs/OSCClient/guide-client-copy.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/guide-client-copy",
-              "permalink": "/OSCClient/guide-client-copy",
+              "unversionedId": "OSCClient/Heimdall/Divers/en_construction",
+              "id": "OSCClient/Heimdall/Divers/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Divers/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Divers",
+              "slug": "/OSCClient/Heimdall/Divers/en_construction",
+              "permalink": "/OSCClient/Heimdall/Divers/en_construction",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/guide-client-copy.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Divers/en_construction.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_label": "Guide utilisateur old",
-                "sidebar_position": 10
+                "title": "Documentation en cours de construction"
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "Note de frais",
-                "permalink": "/OSCClient/note-de-frais-client"
+                "title": "OSCDocs - Divers",
+                "permalink": "/category/oscdocs---divers"
+              },
+              "next": {
+                "title": "OSCDocs - Partage de Fichiers",
+                "permalink": "/category/oscdocs---partage-de-fichiers"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/convert-en",
+              "id": "OSCClient/Heimdall/Finance/convert-en",
+              "title": "Expenses",
+              "description": "Odoo Expenses streamlines the management of expenses. After an",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/convert-en.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/convert-en",
+              "permalink": "/OSCClient/Heimdall/Finance/convert-en",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/convert-en.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "test",
+                "permalink": "/OSCClient/Heimdall/Finance/test"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/en_construction",
+              "id": "OSCClient/Heimdall/Finance/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/en_construction",
+              "permalink": "/OSCClient/Heimdall/Finance/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Expenses",
+                "permalink": "/OSCClient/Heimdall/Finance/convert-en"
+              },
+              "next": {
+                "title": "OSCDocs - Ventes",
+                "permalink": "/category/oscdocs---ventes"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/note-de-frais-client",
+              "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+              "title": "Documentation de formation pour \"Notes de frais\"",
+              "description": "Introduction à la fonctionnalité de note de frais",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/note-de-frais-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+              "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/note-de-frais-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Notes de Frais",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Finance",
+                "permalink": "/category/oscdocs---finance"
               },
               "next": {
                 "title": "test",
-                "permalink": "/OSCClient/test"
+                "permalink": "/OSCClient/Heimdall/Finance/test"
               }
             },
             {
-              "unversionedId": "OSCClient/guide-client-copy-old",
-              "id": "OSCClient/guide-client-copy-old",
-              "title": "Guide de l'utilisateur pour Heimdall",
-              "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall ! Cette documentation a pour objectif de vous fournir toutes les informations nécessaires pour comprendre et utiliser Heimdall de manière efficace, même sans connaissance technique.",
-              "source": "@site/docs/OSCClient/guide-client-copy-old.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/guide-client-copy-old",
-              "permalink": "/OSCClient/guide-client-copy-old",
+              "unversionedId": "OSCClient/Heimdall/Finance/test",
+              "id": "OSCClient/Heimdall/Finance/test",
+              "title": ":show-content:",
+              "description": "---",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/test.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/test",
+              "permalink": "/OSCClient/Heimdall/Finance/test",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/guide-client-copy-old.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/test.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 11,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_label": "Guide utilisateur old 2",
-                "sidebar_position": 11
+                "sidebar_label": "test",
+                "sidebar_position": 2
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "test",
-                "permalink": "/OSCClient/test"
+                "title": "Notes de Frais",
+                "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client"
+              },
+              "next": {
+                "title": "Expenses",
+                "permalink": "/OSCClient/Heimdall/Finance/convert-en"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/heimdall-client",
+              "id": "OSCClient/Heimdall/heimdall-client",
+              "title": "Documentation de formation pour \"Heimdall\"",
+              "description": "Introduction",
+              "source": "@site/docs/OSCClient/Heimdall/heimdall-client.md",
+              "sourceDirName": "OSCClient/Heimdall",
+              "slug": "/OSCClient/Heimdall/heimdall-client",
+              "permalink": "/OSCClient/Heimdall/heimdall-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/heimdall-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_label": "Heimdall",
+                "sidebar_position": 0
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Heimdall",
+                "permalink": "/category/oscdocs---heimdall"
+              },
+              "next": {
+                "title": "OSCDocs - Finance",
+                "permalink": "/category/oscdocs---finance"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "id": "OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Inventaire & MRP/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Inventaire & MRP",
+              "slug": "/OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "permalink": "/OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Inventaire & MRP/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Inventaire & MRP",
+                "permalink": "/category/oscdocs---inventaire--mrp"
+              },
+              "next": {
+                "title": "OSCDocs - Ressources Humaines",
+                "permalink": "/category/oscdocs---ressources-humaines"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Marketing/en_construction",
+              "id": "OSCClient/Heimdall/Marketing/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Marketing/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Marketing",
+              "slug": "/OSCClient/Heimdall/Marketing/en_construction",
+              "permalink": "/OSCClient/Heimdall/Marketing/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Marketing/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Marketing",
+                "permalink": "/category/oscdocs---marketing"
+              },
+              "next": {
+                "title": "OSCDocs - Services",
+                "permalink": "/category/oscdocs---services"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Mes Fichiers",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client"
+              },
+              "next": {
+                "title": "OSCDocs - Support & Assistance",
+                "permalink": "/category/oscdocs---support--assistance"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "title": "Documentation de formation pour \"Mes Fichiers\"",
+              "description": "Introduction à Nextcloud",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/fichiers-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/fichiers-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Mes Fichiers",
+                "sidebar_position": 4
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Partage de Fichiers",
+                "permalink": "/category/oscdocs---partage-de-fichiers"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Productivité/en_construction",
+              "id": "OSCClient/Heimdall/Productivité/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Productivité/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Productivité",
+              "slug": "/OSCClient/Heimdall/Productivité/en_construction",
+              "permalink": "/OSCClient/Heimdall/Productivité/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Productivité/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Productivité",
+                "permalink": "/category/oscdocs---productivité"
+              },
+              "next": {
+                "title": "OSCDocs - Divers",
+                "permalink": "/category/oscdocs---divers"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "id": "OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Ressources Humaines/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Ressources Humaines",
+              "slug": "/OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "permalink": "/OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ressources Humaines/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Ressources Humaines",
+                "permalink": "/category/oscdocs---ressources-humaines"
+              },
+              "next": {
+                "title": "OSCDocs - Marketing",
+                "permalink": "/category/oscdocs---marketing"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Services/en_construction",
+              "id": "OSCClient/Heimdall/Services/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Services/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Services",
+              "slug": "/OSCClient/Heimdall/Services/en_construction",
+              "permalink": "/OSCClient/Heimdall/Services/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Services/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Services",
+                "permalink": "/category/oscdocs---services"
+              },
+              "next": {
+                "title": "OSCDocs - Productivité",
+                "permalink": "/category/oscdocs---productivité"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Site Web/en_construction",
+              "id": "OSCClient/Heimdall/Site Web/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Site Web/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Site Web",
+              "slug": "/OSCClient/Heimdall/Site Web/en_construction",
+              "permalink": "/OSCClient/Heimdall/Site Web/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Site Web/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Site Web",
+                "permalink": "/OSCClient/Heimdall/Site Web/site-web-client"
+              },
+              "next": {
+                "title": "OSCDocs - Inventaire & MRP",
+                "permalink": "/category/oscdocs---inventaire--mrp"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Site Web/site-web-client",
+              "id": "OSCClient/Heimdall/Site Web/site-web-client",
+              "title": "Documentation de formation pour \"Site Web\"",
+              "description": "Introduction",
+              "source": "@site/docs/OSCClient/Heimdall/Site Web/site-web-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Site Web",
+              "slug": "/OSCClient/Heimdall/Site Web/site-web-client",
+              "permalink": "/OSCClient/Heimdall/Site Web/site-web-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Site Web/site-web-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Site Web",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Site Web",
+                "permalink": "/category/oscdocs---site-web"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Site Web/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Support & Assistance/en_construction",
+              "id": "OSCClient/Heimdall/Support & Assistance/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Support & Assistance",
+              "slug": "/OSCClient/Heimdall/Support & Assistance/en_construction",
+              "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Support & Assistance",
+                "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client"
               },
               "next": {
                 "title": "Tutorial - Basics",
@@ -440,143 +752,85 @@
               }
             },
             {
-              "unversionedId": "OSCClient/heimdall-client",
-              "id": "OSCClient/heimdall-client",
-              "title": "Introduction à Heimdall",
-              "description": "Heimdall est une plateforme de gestion de contenu conviviale qui vous permet de créer et de gérer facilement votre site web, sans avoir besoin de compétences techniques approfondies. Voici quelques points importants à connaître :",
-              "source": "@site/docs/OSCClient/heimdall-client.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/heimdall-client",
-              "permalink": "/OSCClient/heimdall-client",
+              "unversionedId": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "title": "Documentation de formation pour \"Support & Assistance\"",
+              "description": "Présentation de Zammad",
+              "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Support & Assistance",
+              "slug": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/heimdall-client.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_label": "Heimdall",
-                "sidebar_position": 2
-              },
-              "sidebar": "oscdocsSidebar",
-              "previous": {
-                "title": "Guide Client",
-                "permalink": "/OSCClient/guide-client"
-              },
-              "next": {
-                "title": "Site Web",
-                "permalink": "/OSCClient/site-web-client"
-              }
-            },
-            {
-              "unversionedId": "OSCClient/note-de-frais-client",
-              "id": "OSCClient/note-de-frais-client",
-              "title": "note-de-frais-client",
-              "description": "",
-              "source": "@site/docs/OSCClient/note-de-frais-client.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/note-de-frais-client",
-              "permalink": "/OSCClient/note-de-frais-client",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/note-de-frais-client.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_label": "Note de frais",
-                "sidebar_position": 7
-              },
-              "sidebar": "oscdocsSidebar",
-              "previous": {
-                "title": "Caisse",
-                "permalink": "/OSCClient/caisse-client"
-              },
-              "next": {
-                "title": "Guide utilisateur old",
-                "permalink": "/OSCClient/guide-client-copy"
-              }
-            },
-            {
-              "unversionedId": "OSCClient/site-web-client",
-              "id": "OSCClient/site-web-client",
-              "title": "site-web-client",
-              "description": "",
-              "source": "@site/docs/OSCClient/site-web-client.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/site-web-client",
-              "permalink": "/OSCClient/site-web-client",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/site-web-client.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_label": "Site Web",
-                "sidebar_position": 3
-              },
-              "sidebar": "oscdocsSidebar",
-              "previous": {
-                "title": "Heimdall",
-                "permalink": "/OSCClient/heimdall-client"
-              },
-              "next": {
-                "title": "Fichiers",
-                "permalink": "/OSCClient/fichiers-client"
-              }
-            },
-            {
-              "unversionedId": "OSCClient/support-et-maintenance-client",
-              "id": "OSCClient/support-et-maintenance-client",
-              "title": "support-et-maintenance-client",
-              "description": "",
-              "source": "@site/docs/OSCClient/support-et-maintenance-client.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/support-et-maintenance-client",
-              "permalink": "/OSCClient/support-et-maintenance-client",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/support-et-maintenance-client.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_label": "Support & Maintenance",
+                "sidebar_label": "Support & Assistance",
                 "sidebar_position": 5
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "Fichiers",
-                "permalink": "/OSCClient/fichiers-client"
+                "title": "OSCDocs - Support & Assistance",
+                "permalink": "/category/oscdocs---support--assistance"
               },
               "next": {
-                "title": "Caisse",
-                "permalink": "/OSCClient/caisse-client"
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
               }
             },
             {
-              "unversionedId": "OSCClient/test",
-              "id": "OSCClient/test",
-              "title": "Documentation de formation pour les clients",
-              "description": "Introduction",
-              "source": "@site/docs/OSCClient/test.md",
-              "sourceDirName": "OSCClient",
-              "slug": "/OSCClient/test",
-              "permalink": "/OSCClient/test",
+              "unversionedId": "OSCClient/Heimdall/Ventes/caisse-client",
+              "id": "OSCClient/Heimdall/Ventes/caisse-client",
+              "title": "Documentation de formation pour \"Caisse\"",
+              "description": "Présentation de la section Caisse",
+              "source": "@site/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Ventes",
+              "slug": "/OSCClient/Heimdall/Ventes/caisse-client",
+              "permalink": "/OSCClient/Heimdall/Ventes/caisse-client",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/test.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_label": "test",
-                "sidebar_position": 10
+                "sidebar_label": "Caisse",
+                "sidebar_position": 6
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "Guide utilisateur old",
-                "permalink": "/OSCClient/guide-client-copy"
+                "title": "OSCDocs - Ventes",
+                "permalink": "/category/oscdocs---ventes"
               },
               "next": {
-                "title": "Guide utilisateur old 2",
-                "permalink": "/OSCClient/guide-client-copy-old"
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ventes/en_construction",
+              "id": "OSCClient/Heimdall/Ventes/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Ventes/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Ventes",
+              "slug": "/OSCClient/Heimdall/Ventes/en_construction",
+              "permalink": "/OSCClient/Heimdall/Ventes/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Caisse",
+                "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+              },
+              "next": {
+                "title": "OSCDocs - Site Web",
+                "permalink": "/category/oscdocs---site-web"
               }
             },
             {
@@ -898,49 +1152,255 @@
                     "label": "Guide Client"
                   },
                   {
-                    "type": "doc",
-                    "id": "OSCClient/heimdall-client",
-                    "label": "Heimdall"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/site-web-client",
-                    "label": "Site Web"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/fichiers-client",
-                    "label": "Fichiers"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/support-et-maintenance-client",
-                    "label": "Support & Maintenance"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/caisse-client",
-                    "label": "Caisse"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/note-de-frais-client",
-                    "label": "Note de frais"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/guide-client-copy",
-                    "label": "Guide utilisateur old"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/test",
-                    "label": "test"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "OSCClient/guide-client-copy-old",
-                    "label": "Guide utilisateur old 2"
+                    "type": "category",
+                    "label": "OSCDocs - Heimdall",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "OSCClient/Heimdall/heimdall-client",
+                        "label": "Heimdall"
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Finance",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+                            "label": "Notes de Frais"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/test",
+                            "label": "test"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/convert-en"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---finance",
+                          "permalink": "/category/oscdocs---finance"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Ventes",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ventes/caisse-client",
+                            "label": "Caisse"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ventes/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---ventes",
+                          "permalink": "/category/oscdocs---ventes"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Site Web",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Site Web/site-web-client",
+                            "label": "Site Web"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Site Web/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---site-web",
+                          "permalink": "/category/oscdocs---site-web"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Inventaire & MRP",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Inventaire & MRP/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---inventaire--mrp",
+                          "permalink": "/category/oscdocs---inventaire--mrp"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Ressources Humaines",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ressources Humaines/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---ressources-humaines",
+                          "permalink": "/category/oscdocs---ressources-humaines"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Marketing",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Marketing/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---marketing",
+                          "permalink": "/category/oscdocs---marketing"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Services",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Services/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---services",
+                          "permalink": "/category/oscdocs---services"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Productivité",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Productivité/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---productivité",
+                          "permalink": "/category/oscdocs---productivité"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Divers",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Divers/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---divers",
+                          "permalink": "/category/oscdocs---divers"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Partage de Fichiers",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+                            "label": "Mes Fichiers"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---partage-de-fichiers",
+                          "permalink": "/category/oscdocs---partage-de-fichiers"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "OSCDocs - Support & Assistance",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+                            "label": "Support & Assistance"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Support & Assistance/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/oscdocs---support--assistance",
+                          "permalink": "/category/oscdocs---support--assistance"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                      "slug": "/category/oscdocs---heimdall",
+                      "permalink": "/category/oscdocs---heimdall"
+                    }
                   }
                 ],
                 "link": {

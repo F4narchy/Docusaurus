@@ -18,11 +18,11 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Guide utilisateur old",
-    "permalink": "/OSCClient/guide-client-copy"
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
   },
   "next": {
-    "title": "Guide utilisateur old 2",
-    "permalink": "/OSCClient/guide-client-copy-old"
+    "title": "Tutorial - Basics",
+    "permalink": "/category/tutorial---basics"
   }
 }

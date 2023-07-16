@@ -1,0 +1,16 @@
+{
+  "title": "OSCDocs - Partage de Fichiers",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/oscdocs---partage-de-fichiers",
+  "permalink": "/category/oscdocs---partage-de-fichiers",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Divers/en_construction"
+    },
+    "next": {
+      "title": "Mes Fichiers",
+      "permalink": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client"
+    }
+  }
+}

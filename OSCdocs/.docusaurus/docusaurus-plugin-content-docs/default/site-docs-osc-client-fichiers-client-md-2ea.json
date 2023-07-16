@@ -1,8 +1,8 @@
 {
   "unversionedId": "OSCClient/fichiers-client",
   "id": "OSCClient/fichiers-client",
-  "title": "fichiers-client",
-  "description": "",
+  "title": "Documentation de formation pour \"Mes Fichiers\"",
+  "description": "Introduction à Nextcloud",
   "source": "@site/docs/OSCClient/fichiers-client.md",
   "sourceDirName": "OSCClient",
   "slug": "/OSCClient/fichiers-client",
@@ -13,16 +13,16 @@
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_label": "Fichiers",
+    "sidebar_label": "Mes Fichiers",
     "sidebar_position": 4
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Site Web",
-    "permalink": "/OSCClient/site-web-client"
+    "title": "Caisse",
+    "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
   },
   "next": {
-    "title": "Support & Maintenance",
-    "permalink": "/OSCClient/support-et-maintenance-client"
+    "title": "Support & Assistance",
+    "permalink": "/OSCClient/support-et-assistance-client"
   }
 }

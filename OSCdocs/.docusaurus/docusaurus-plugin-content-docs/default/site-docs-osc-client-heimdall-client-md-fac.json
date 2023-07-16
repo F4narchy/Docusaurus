@@ -1,8 +1,8 @@
 {
   "unversionedId": "OSCClient/heimdall-client",
   "id": "OSCClient/heimdall-client",
-  "title": "Introduction à Heimdall",
-  "description": "Heimdall est une plateforme de gestion de contenu conviviale qui vous permet de créer et de gérer facilement votre site web, sans avoir besoin de compétences techniques approfondies. Voici quelques points importants à connaître :",
+  "title": "Documentation de formation pour \"Heimdall\"",
+  "description": "Introduction",
   "source": "@site/docs/OSCClient/heimdall-client.md",
   "sourceDirName": "OSCClient",
   "slug": "/OSCClient/heimdall-client",
@@ -18,8 +18,8 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Guide Client",
-    "permalink": "/OSCClient/guide-client"
+    "title": "test",
+    "permalink": "/OSCClient/SiteWeb/test"
   },
   "next": {
     "title": "Site Web",

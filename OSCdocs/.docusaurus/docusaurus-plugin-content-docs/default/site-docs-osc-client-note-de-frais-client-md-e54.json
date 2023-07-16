@@ -1,8 +1,8 @@
 {
   "unversionedId": "OSCClient/note-de-frais-client",
   "id": "OSCClient/note-de-frais-client",
-  "title": "note-de-frais-client",
-  "description": "",
+  "title": "Documentation de formation pour \"Notes de frais\"",
+  "description": "Introduction à la fonctionnalité de note de frais",
   "source": "@site/docs/OSCClient/note-de-frais-client.md",
   "sourceDirName": "OSCClient",
   "slug": "/OSCClient/note-de-frais-client",
@@ -13,7 +13,7 @@
   "version": "current",
   "sidebarPosition": 7,
   "frontMatter": {
-    "sidebar_label": "Note de frais",
+    "sidebar_label": "Notes de Frais",
     "sidebar_position": 7
   },
   "sidebar": "oscdocsSidebar",

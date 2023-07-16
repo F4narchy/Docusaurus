@@ -1,0 +1,16 @@
+{
+  "title": "OSCDocs - Services",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/oscdocs---services",
+  "permalink": "/category/oscdocs---services",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Marketing/en_construction"
+    },
+    "next": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Services/en_construction"
+    }
+  }
+}

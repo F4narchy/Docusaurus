@@ -1,8 +1,8 @@
 {
   "unversionedId": "OSCClient/site-web-client",
   "id": "OSCClient/site-web-client",
-  "title": "site-web-client",
-  "description": "",
+  "title": "Documentation de formation pour \"Site Web\"",
+  "description": "Introduction",
   "source": "@site/docs/OSCClient/site-web-client.md",
   "sourceDirName": "OSCClient",
   "slug": "/OSCClient/site-web-client",
@@ -18,11 +18,11 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Heimdall",
-    "permalink": "/OSCClient/heimdall-client"
+    "title": "Notes de Frais",
+    "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client"
   },
   "next": {
-    "title": "Fichiers",
+    "title": "Mes Fichiers",
     "permalink": "/OSCClient/fichiers-client"
   }
 }

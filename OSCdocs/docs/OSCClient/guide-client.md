@@ -47,7 +47,7 @@ Découvrez comment gérer vos fichiers de manière efficace avec la fonctionnali
 * *[Guide d'utilisation des fonctionnalités de gestion des fichiers, notamment l'ajout, la modification et le partage de fichiers](https://lelien)*
 * *[Exemples concrets montrant comment utiliser Nextcloud pour organiser et partager efficacement les fichiers et documents](https://lelien)*
 
-### Partie 4 : Support & maintenance
+### Partie 4 : Support & assistance
 
 #### Objectif :checkered_flag: 
 
@@ -55,7 +55,7 @@ Découvrez comment accéder à votre support et à la maintenance du système.
 
 #### Contenu :
 
-* *[Présentation de Zammad et de ses fonctionnalités de support et de maintenance](https://lelien)*
+* *[Présentation de Zammad et de ses fonctionnalités de support et assistance](https://lelien)*
 * *[Instructions pour accéder à Zammad et se connecter](https://lelien)*
 * *[Guide d'utilisation des fonctionnalités de support client, notamment la création de tickets, la communication avec l'équipe de support, le suivi des tickets, etc](https://lelien)*
 * *[Exemples concrets montrant comment utiliser Zammad pour obtenir une assistance rapide et efficace en cas de problèmes ou de questions](https://lelien)*
@@ -73,7 +73,7 @@ Apprenez à utiliser la fonctionnalité "Caisse" de votre système.
 * *[Guide d'utilisation des fonctionnalités de caisse, notamment la création de transactions, la gestion des paiements, etc](https://lelien)*
 * *[Exemples pratiques montrant comment utiliser la caisse Odoo pour effectuer des opérations de vente en toute simplicité](https://lelien)*
 
-### Partie 6 : Note de frais
+### Partie 6 : Notes de frais
 
 #### Objectif
 
@@ -111,7 +111,26 @@ export const Highlight = ({children, color}) => (
 
 I can write **Markdown** alongside my _JSX_!
 
+
+:::info Info
+
+Use this awesome feature option
+
+:::
+
+:::caution Caution
+
+Use this awesome feature option
+
+:::
+
 :::tip Aide
+
+Use this awesome feature option
+
+:::
+
+:::note Note
 
 Use this awesome feature option
 

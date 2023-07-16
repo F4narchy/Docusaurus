@@ -1,0 +1,16 @@
+{
+  "title": "OSCDocs - Heimdall",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/oscdocs---heimdall-8",
+  "permalink": "/category/oscdocs---heimdall-8",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
+    },
+    "next": {
+      "title": "Caisse",
+      "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+    }
+  }
+}

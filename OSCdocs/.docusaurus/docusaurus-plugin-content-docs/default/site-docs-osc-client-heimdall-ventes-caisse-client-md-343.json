@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Ventes/caisse-client",
+  "id": "OSCClient/Heimdall/Ventes/caisse-client",
+  "title": "Documentation de formation pour \"Caisse\"",
+  "description": "Présentation de la section Caisse",
+  "source": "@site/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
+  "sourceDirName": "OSCClient/Heimdall/Ventes",
+  "slug": "/OSCClient/Heimdall/Ventes/caisse-client",
+  "permalink": "/OSCClient/Heimdall/Ventes/caisse-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Caisse",
+    "sidebar_position": 6
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "OSCDocs - Ventes",
+    "permalink": "/category/oscdocs---ventes"
+  },
+  "next": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+  }
+}
