@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+  "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+  "title": "Accessing your files using the Nextcloud Web interface",
+  "description": "You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit, delete, share, and re-share files.",
+  "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi.md",
+  "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+  "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+  "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Accessing your files using the Nextcloud Web interface",
+    "sidebar_position": 2
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud"
+  },
+  "next": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+  }
+}

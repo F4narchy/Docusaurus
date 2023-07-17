@@ -5,7 +5,7 @@ employee submits their expenses in Odoo, the expenses are reviewed by
 management and accounting teams. Once approved, payments can then be
 processed and disbursed back to the employee for reimbursement(s).
 
-:::info Pour plus d'infos
+:::info See also
 [***Odoo Expenses : product page***](https://www.odoo.com/app/expenses)
 :::
 
@@ -39,7 +39,7 @@ Only two fields are required, the **Product Name** and the
 **Unit of Measure** from the drop-down menu (most products will be set to
 **Units**).
 
-:::tip Astuce
+:::tip Tip
 The *Sales* app is where specification on the units of measure are
 created and edited (e.g. units, miles, nights, etc.). Go to
 **Sales app > Configuration > Settings** and ensure `Units of Measure` is enabled in the `Product Catalog` section. Click on the `Units of Measure` internal link to view, create, and edit the units of measure. Refer to [**this document**](https://www.odoo.com/documentation/16.0/fr/applications/inventory_and_mrp/inventory/management/products/uom.html)

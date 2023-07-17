@@ -1,0 +1,16 @@
+{
+  "title": "Site Web",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/site-web",
+  "permalink": "/category/site-web",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+    },
+    "next": {
+      "title": "Site Web",
+      "permalink": "/OSCClient/Heimdall/Site Web/site-web-client"
+    }
+  }
+}

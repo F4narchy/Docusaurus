@@ -1,0 +1,16 @@
+{
+  "title": "Support & Assistance",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/support--assistance",
+  "permalink": "/category/support--assistance",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction"
+    },
+    "next": {
+      "title": "Guide",
+      "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client"
+    }
+  }
+}

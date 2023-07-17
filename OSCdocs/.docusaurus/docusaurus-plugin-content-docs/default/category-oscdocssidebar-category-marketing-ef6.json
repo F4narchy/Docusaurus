@@ -1,0 +1,16 @@
+{
+  "title": "Marketing",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/marketing",
+  "permalink": "/category/marketing",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Ressources Humaines/en_construction"
+    },
+    "next": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Marketing/en_construction"
+    }
+  }
+}

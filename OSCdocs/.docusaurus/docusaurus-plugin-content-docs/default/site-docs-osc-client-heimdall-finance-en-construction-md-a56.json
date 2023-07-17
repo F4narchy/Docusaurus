@@ -16,11 +16,11 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Expenses",
-    "permalink": "/OSCClient/Heimdall/Finance/convert-en"
+    "title": "test",
+    "permalink": "/OSCClient/Heimdall/Finance/test"
   },
   "next": {
-    "title": "OSCDocs - Ventes",
-    "permalink": "/category/oscdocs---ventes"
+    "title": "Expenses",
+    "permalink": "/OSCClient/Heimdall/Finance/expenses"
   }
 }

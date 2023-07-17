@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Support & Assistance'
-sidebar_position: 5
+sidebar_label: 'Guide'
+sidebar_position: 1
 ---
 
 # Documentation de formation pour "Support & Assistance"

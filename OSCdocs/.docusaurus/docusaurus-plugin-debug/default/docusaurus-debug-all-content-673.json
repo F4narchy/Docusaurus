@@ -323,8 +323,8 @@
                 "permalink": "/category/oscdocs---client"
               },
               "next": {
-                "title": "OSCDocs - Heimdall",
-                "permalink": "/category/oscdocs---heimdall"
+                "title": "Heimdall",
+                "permalink": "/category/heimdall"
               }
             },
             {
@@ -345,36 +345,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Divers",
-                "permalink": "/category/oscdocs---divers"
+                "title": "Divers",
+                "permalink": "/category/divers"
               },
               "next": {
-                "title": "OSCDocs - Partage de Fichiers",
-                "permalink": "/category/oscdocs---partage-de-fichiers"
-              }
-            },
-            {
-              "unversionedId": "OSCClient/Heimdall/Finance/convert-en",
-              "id": "OSCClient/Heimdall/Finance/convert-en",
-              "title": "Expenses",
-              "description": "Odoo Expenses streamlines the management of expenses. After an",
-              "source": "@site/docs/OSCClient/Heimdall/Finance/convert-en.md",
-              "sourceDirName": "OSCClient/Heimdall/Finance",
-              "slug": "/OSCClient/Heimdall/Finance/convert-en",
-              "permalink": "/OSCClient/Heimdall/Finance/convert-en",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/convert-en.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "oscdocsSidebar",
-              "previous": {
-                "title": "test",
-                "permalink": "/OSCClient/Heimdall/Finance/test"
-              },
-              "next": {
-                "title": "Documentation en cours de construction",
-                "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+                "title": "Partage de Fichiers",
+                "permalink": "/category/partage-de-fichiers"
               }
             },
             {
@@ -395,12 +371,36 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "Expenses",
-                "permalink": "/OSCClient/Heimdall/Finance/convert-en"
+                "title": "test",
+                "permalink": "/OSCClient/Heimdall/Finance/test"
               },
               "next": {
-                "title": "OSCDocs - Ventes",
-                "permalink": "/category/oscdocs---ventes"
+                "title": "Expenses",
+                "permalink": "/OSCClient/Heimdall/Finance/expenses"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/expenses",
+              "id": "OSCClient/Heimdall/Finance/expenses",
+              "title": "Expenses",
+              "description": "Odoo Expenses streamlines the management of expenses. After an",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/expenses.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/expenses",
+              "permalink": "/OSCClient/Heimdall/Finance/expenses",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/expenses.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+              },
+              "next": {
+                "title": "Ventes",
+                "permalink": "/category/ventes"
               }
             },
             {
@@ -423,8 +423,8 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Finance",
-                "permalink": "/category/oscdocs---finance"
+                "title": "Finance",
+                "permalink": "/category/finance"
               },
               "next": {
                 "title": "test",
@@ -455,8 +455,8 @@
                 "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client"
               },
               "next": {
-                "title": "Expenses",
-                "permalink": "/OSCClient/Heimdall/Finance/convert-en"
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Finance/en_construction"
               }
             },
             {
@@ -474,17 +474,17 @@
               "version": "current",
               "sidebarPosition": 0,
               "frontMatter": {
-                "sidebar_label": "Heimdall",
+                "sidebar_label": "Guide Heimdall",
                 "sidebar_position": 0
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Heimdall",
-                "permalink": "/category/oscdocs---heimdall"
+                "title": "Heimdall",
+                "permalink": "/category/heimdall"
               },
               "next": {
-                "title": "OSCDocs - Finance",
-                "permalink": "/category/oscdocs---finance"
+                "title": "Finance",
+                "permalink": "/category/finance"
               }
             },
             {
@@ -505,12 +505,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Inventaire & MRP",
-                "permalink": "/category/oscdocs---inventaire--mrp"
+                "title": "Inventaire & MRP",
+                "permalink": "/category/inventaire--mrp"
               },
               "next": {
-                "title": "OSCDocs - Ressources Humaines",
-                "permalink": "/category/oscdocs---ressources-humaines"
+                "title": "Ressources Humaines",
+                "permalink": "/category/ressources-humaines"
               }
             },
             {
@@ -531,12 +531,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Marketing",
-                "permalink": "/category/oscdocs---marketing"
+                "title": "Marketing",
+                "permalink": "/category/marketing"
               },
               "next": {
-                "title": "OSCDocs - Services",
-                "permalink": "/category/oscdocs---services"
+                "title": "Services",
+                "permalink": "/category/services"
               }
             },
             {
@@ -557,12 +557,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "Mes Fichiers",
-                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client"
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
               },
               "next": {
-                "title": "OSCDocs - Support & Assistance",
-                "permalink": "/category/oscdocs---support--assistance"
+                "title": "Support & Assistance",
+                "permalink": "/category/support--assistance"
               }
             },
             {
@@ -585,12 +585,94 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Partage de Fichiers",
-                "permalink": "/category/oscdocs---partage-de-fichiers"
+                "title": "Partage de Fichiers",
+                "permalink": "/category/partage-de-fichiers"
+              },
+              "next": {
+                "title": "Nextcloud",
+                "permalink": "/category/nextcloud"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "title": "Accessing your files using the Nextcloud Web interface",
+              "description": "You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit, delete, share, and re-share files.",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Accessing your files using the Nextcloud Web interface",
+                "sidebar_position": 2
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Accessing your files using the Nextcloud Web interface",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi"
               },
               "next": {
                 "title": "Documentation en cours de construction",
                 "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "title": "Nextcloud",
+              "description": "Nextcloud latest user manual introduction",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Nextcloud",
+                "permalink": "/category/nextcloud"
+              },
+              "next": {
+                "title": "Accessing your files using the Nextcloud Web interface",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi"
               }
             },
             {
@@ -611,12 +693,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Productivité",
-                "permalink": "/category/oscdocs---productivité"
+                "title": "Productivité",
+                "permalink": "/category/productivité"
               },
               "next": {
-                "title": "OSCDocs - Divers",
-                "permalink": "/category/oscdocs---divers"
+                "title": "Divers",
+                "permalink": "/category/divers"
               }
             },
             {
@@ -637,12 +719,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Ressources Humaines",
-                "permalink": "/category/oscdocs---ressources-humaines"
+                "title": "Ressources Humaines",
+                "permalink": "/category/ressources-humaines"
               },
               "next": {
-                "title": "OSCDocs - Marketing",
-                "permalink": "/category/oscdocs---marketing"
+                "title": "Marketing",
+                "permalink": "/category/marketing"
               }
             },
             {
@@ -663,12 +745,12 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Services",
-                "permalink": "/category/oscdocs---services"
+                "title": "Services",
+                "permalink": "/category/services"
               },
               "next": {
-                "title": "OSCDocs - Productivité",
-                "permalink": "/category/oscdocs---productivité"
+                "title": "Productivité",
+                "permalink": "/category/productivité"
               }
             },
             {
@@ -693,8 +775,8 @@
                 "permalink": "/OSCClient/Heimdall/Site Web/site-web-client"
               },
               "next": {
-                "title": "OSCDocs - Inventaire & MRP",
-                "permalink": "/category/oscdocs---inventaire--mrp"
+                "title": "Inventaire & MRP",
+                "permalink": "/category/inventaire--mrp"
               }
             },
             {
@@ -717,8 +799,8 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Site Web",
-                "permalink": "/category/oscdocs---site-web"
+                "title": "Site Web",
+                "permalink": "/category/site-web"
               },
               "next": {
                 "title": "Documentation en cours de construction",
@@ -743,8 +825,8 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "Support & Assistance",
-                "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client"
+                "title": "Introduction",
+                "permalink": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad"
               },
               "next": {
                 "title": "Tutorial - Basics",
@@ -764,15 +846,43 @@
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_label": "Support & Assistance",
-                "sidebar_position": 5
+                "sidebar_label": "Guide",
+                "sidebar_position": 1
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Support & Assistance",
-                "permalink": "/category/oscdocs---support--assistance"
+                "title": "Support & Assistance",
+                "permalink": "/category/support--assistance"
+              },
+              "next": {
+                "title": "Zammad",
+                "permalink": "/category/zammad"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "title": "About",
+              "description": "Zammad",
+              "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad.md",
+              "sourceDirName": "OSCClient/Heimdall/Support & Assistance/Zammad",
+              "slug": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "permalink": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Zammad",
+                "permalink": "/category/zammad"
               },
               "next": {
                 "title": "Documentation en cours de construction",
@@ -792,19 +902,19 @@
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_label": "Caisse",
-                "sidebar_position": 6
+                "sidebar_position": 1
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
-                "title": "OSCDocs - Ventes",
-                "permalink": "/category/oscdocs---ventes"
+                "title": "Ventes",
+                "permalink": "/category/ventes"
               },
               "next": {
-                "title": "Documentation en cours de construction",
-                "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+                "title": "Point of Sale",
+                "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
               }
             },
             {
@@ -825,12 +935,40 @@
               },
               "sidebar": "oscdocsSidebar",
               "previous": {
+                "title": "Point of Sale",
+                "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
+              },
+              "next": {
+                "title": "Site Web",
+                "permalink": "/category/site-web"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ventes/point_of_sale",
+              "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+              "title": "Point of Sale",
+              "description": "With Odoo Point of Sale, run your shops and restaurants easily. The",
+              "source": "@site/docs/OSCClient/Heimdall/Ventes/point_of_sale.md",
+              "sourceDirName": "OSCClient/Heimdall/Ventes",
+              "slug": "/OSCClient/Heimdall/Ventes/point_of_sale",
+              "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/point_of_sale.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Point of Sale",
+                "sidebar_position": 2
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
                 "title": "Caisse",
                 "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
               },
               "next": {
-                "title": "OSCDocs - Site Web",
-                "permalink": "/category/oscdocs---site-web"
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
               }
             },
             {
@@ -1153,18 +1291,18 @@
                   },
                   {
                     "type": "category",
-                    "label": "OSCDocs - Heimdall",
+                    "label": "Heimdall",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
                         "id": "OSCClient/Heimdall/heimdall-client",
-                        "label": "Heimdall"
+                        "label": "Guide Heimdall"
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Finance",
+                        "label": "Finance",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1180,23 +1318,23 @@
                           },
                           {
                             "type": "doc",
-                            "id": "OSCClient/Heimdall/Finance/convert-en"
+                            "id": "OSCClient/Heimdall/Finance/en_construction"
                           },
                           {
                             "type": "doc",
-                            "id": "OSCClient/Heimdall/Finance/en_construction"
+                            "id": "OSCClient/Heimdall/Finance/expenses"
                           }
                         ],
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---finance",
-                          "permalink": "/category/oscdocs---finance"
+                          "slug": "/category/finance",
+                          "permalink": "/category/finance"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Ventes",
+                        "label": "Ventes",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1207,19 +1345,24 @@
                           },
                           {
                             "type": "doc",
+                            "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+                            "label": "Point of Sale"
+                          },
+                          {
+                            "type": "doc",
                             "id": "OSCClient/Heimdall/Ventes/en_construction"
                           }
                         ],
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---ventes",
-                          "permalink": "/category/oscdocs---ventes"
+                          "slug": "/category/ventes",
+                          "permalink": "/category/ventes"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Site Web",
+                        "label": "Site Web",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1236,13 +1379,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---site-web",
-                          "permalink": "/category/oscdocs---site-web"
+                          "slug": "/category/site-web",
+                          "permalink": "/category/site-web"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Inventaire & MRP",
+                        "label": "Inventaire & MRP",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1254,13 +1397,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---inventaire--mrp",
-                          "permalink": "/category/oscdocs---inventaire--mrp"
+                          "slug": "/category/inventaire--mrp",
+                          "permalink": "/category/inventaire--mrp"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Ressources Humaines",
+                        "label": "Ressources Humaines",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1272,13 +1415,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---ressources-humaines",
-                          "permalink": "/category/oscdocs---ressources-humaines"
+                          "slug": "/category/ressources-humaines",
+                          "permalink": "/category/ressources-humaines"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Marketing",
+                        "label": "Marketing",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1290,13 +1433,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---marketing",
-                          "permalink": "/category/oscdocs---marketing"
+                          "slug": "/category/marketing",
+                          "permalink": "/category/marketing"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Services",
+                        "label": "Services",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1308,13 +1451,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---services",
-                          "permalink": "/category/oscdocs---services"
+                          "slug": "/category/services",
+                          "permalink": "/category/services"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Productivité",
+                        "label": "Productivité",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1326,13 +1469,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---productivité",
-                          "permalink": "/category/oscdocs---productivité"
+                          "slug": "/category/productivité",
+                          "permalink": "/category/productivité"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Divers",
+                        "label": "Divers",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1344,13 +1487,13 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---divers",
-                          "permalink": "/category/oscdocs---divers"
+                          "slug": "/category/divers",
+                          "permalink": "/category/divers"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Partage de Fichiers",
+                        "label": "Partage de Fichiers",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
@@ -1360,6 +1503,34 @@
                             "label": "Mes Fichiers"
                           },
                           {
+                            "type": "category",
+                            "label": "Nextcloud",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+                                "label": "Introduction"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+                                "label": "Accessing your files using the Nextcloud Web interface"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                              "slug": "/category/nextcloud",
+                              "permalink": "/category/nextcloud"
+                            }
+                          },
+                          {
                             "type": "doc",
                             "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction"
                           }
@@ -1367,20 +1538,39 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---partage-de-fichiers",
-                          "permalink": "/category/oscdocs---partage-de-fichiers"
+                          "slug": "/category/partage-de-fichiers",
+                          "permalink": "/category/partage-de-fichiers"
                         }
                       },
                       {
                         "type": "category",
-                        "label": "OSCDocs - Support & Assistance",
+                        "label": "Support & Assistance",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
                           {
                             "type": "doc",
                             "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
-                            "label": "Support & Assistance"
+                            "label": "Guide"
+                          },
+                          {
+                            "type": "category",
+                            "label": "Zammad",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+                                "label": "Introduction"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                              "slug": "/category/zammad",
+                              "permalink": "/category/zammad"
+                            }
                           },
                           {
                             "type": "doc",
@@ -1390,16 +1580,16 @@
                         "link": {
                           "type": "generated-index",
                           "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                          "slug": "/category/oscdocs---support--assistance",
-                          "permalink": "/category/oscdocs---support--assistance"
+                          "slug": "/category/support--assistance",
+                          "permalink": "/category/support--assistance"
                         }
                       }
                     ],
                     "link": {
                       "type": "generated-index",
                       "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
-                      "slug": "/category/oscdocs---heimdall",
-                      "permalink": "/category/oscdocs---heimdall"
+                      "slug": "/category/heimdall",
+                      "permalink": "/category/heimdall"
                     }
                   }
                 ],

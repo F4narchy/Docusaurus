@@ -1,0 +1,16 @@
+{
+  "title": "Divers",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/divers",
+  "permalink": "/category/divers",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Productivité/en_construction"
+    },
+    "next": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Divers/en_construction"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Heimdall",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/heimdall",
+  "permalink": "/category/heimdall",
+  "navigation": {
+    "previous": {
+      "title": "Guide Client",
+      "permalink": "/OSCClient/guide-client"
+    },
+    "next": {
+      "title": "Guide Heimdall",
+      "permalink": "/OSCClient/Heimdall/heimdall-client"
+    }
+  }
+}

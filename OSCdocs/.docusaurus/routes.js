@@ -114,8 +114,44 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '3ae'),
+    component: ComponentCreator('/', '27f'),
     routes: [
+      {
+        path: '/category/divers',
+        component: ComponentCreator('/category/divers', '616'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/finance',
+        component: ComponentCreator('/category/finance', '678'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/heimdall',
+        component: ComponentCreator('/category/heimdall', 'c7a'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/inventaire--mrp',
+        component: ComponentCreator('/category/inventaire--mrp', '75c'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/marketing',
+        component: ComponentCreator('/category/marketing', 'dac'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/nextcloud',
+        component: ComponentCreator('/category/nextcloud', 'add'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
       {
         path: '/category/oscdocs---admin',
         component: ComponentCreator('/category/oscdocs---admin', 'ca9'),
@@ -129,74 +165,38 @@ export default [
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/oscdocs---divers',
-        component: ComponentCreator('/category/oscdocs---divers', 'e19'),
+        path: '/category/partage-de-fichiers',
+        component: ComponentCreator('/category/partage-de-fichiers', '134'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/oscdocs---finance',
-        component: ComponentCreator('/category/oscdocs---finance', '917'),
+        path: '/category/productivité',
+        component: ComponentCreator('/category/productivité', '179'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/oscdocs---heimdall',
-        component: ComponentCreator('/category/oscdocs---heimdall', '4f1'),
+        path: '/category/ressources-humaines',
+        component: ComponentCreator('/category/ressources-humaines', '1da'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/oscdocs---inventaire--mrp',
-        component: ComponentCreator('/category/oscdocs---inventaire--mrp', '95a'),
+        path: '/category/services',
+        component: ComponentCreator('/category/services', '5d1'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/oscdocs---marketing',
-        component: ComponentCreator('/category/oscdocs---marketing', '2b5'),
+        path: '/category/site-web',
+        component: ComponentCreator('/category/site-web', 'ca1'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/oscdocs---partage-de-fichiers',
-        component: ComponentCreator('/category/oscdocs---partage-de-fichiers', 'c93'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/oscdocs---productivité',
-        component: ComponentCreator('/category/oscdocs---productivité', 'd83'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/oscdocs---ressources-humaines',
-        component: ComponentCreator('/category/oscdocs---ressources-humaines', '483'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/oscdocs---services',
-        component: ComponentCreator('/category/oscdocs---services', '4b6'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/oscdocs---site-web',
-        component: ComponentCreator('/category/oscdocs---site-web', '1e5'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/oscdocs---support--assistance',
-        component: ComponentCreator('/category/oscdocs---support--assistance', 'fa3'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/oscdocs---ventes',
-        component: ComponentCreator('/category/oscdocs---ventes', '6e6'),
+        path: '/category/support--assistance',
+        component: ComponentCreator('/category/support--assistance', '4e1'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
@@ -209,6 +209,18 @@ export default [
       {
         path: '/category/tutorial---extras',
         component: ComponentCreator('/category/tutorial---extras', '521'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/ventes',
+        component: ComponentCreator('/category/ventes', '934'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/category/zammad',
+        component: ComponentCreator('/category/zammad', 'bc6'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
@@ -285,14 +297,14 @@ export default [
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/Heimdall/Finance/convert-en',
-        component: ComponentCreator('/OSCClient/Heimdall/Finance/convert-en', 'bf6'),
+        path: '/OSCClient/Heimdall/Finance/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Finance/en_construction', 'cc6'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/OSCClient/Heimdall/Finance/en_construction',
-        component: ComponentCreator('/OSCClient/Heimdall/Finance/en_construction', 'cc6'),
+        path: '/OSCClient/Heimdall/Finance/expenses',
+        component: ComponentCreator('/OSCClient/Heimdall/Finance/expenses', 'c9f'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
@@ -339,6 +351,24 @@ export default [
         sidebar: "oscdocsSidebar"
       },
       {
+        path: '/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi',
+        component: ComponentCreator('/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi', '4e2'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction',
+        component: ComponentCreator('/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction', 'e1b'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud',
+        component: ComponentCreator('/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud', '5e2'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
         path: '/OSCClient/Heimdall/Productivité/en_construction',
         component: ComponentCreator('/OSCClient/Heimdall/Productivité/en_construction', '106'),
         exact: true,
@@ -381,6 +411,12 @@ export default [
         sidebar: "oscdocsSidebar"
       },
       {
+        path: '/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad',
+        component: ComponentCreator('/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad', '050'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
         path: '/OSCClient/Heimdall/Ventes/caisse-client',
         component: ComponentCreator('/OSCClient/Heimdall/Ventes/caisse-client', '130'),
         exact: true,
@@ -389,6 +425,12 @@ export default [
       {
         path: '/OSCClient/Heimdall/Ventes/en_construction',
         component: ComponentCreator('/OSCClient/Heimdall/Ventes/en_construction', '417'),
+        exact: true,
+        sidebar: "oscdocsSidebar"
+      },
+      {
+        path: '/OSCClient/Heimdall/Ventes/point_of_sale',
+        component: ComponentCreator('/OSCClient/Heimdall/Ventes/point_of_sale', '900'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },

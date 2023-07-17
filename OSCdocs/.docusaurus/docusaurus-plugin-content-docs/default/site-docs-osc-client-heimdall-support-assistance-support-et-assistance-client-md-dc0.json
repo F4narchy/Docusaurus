@@ -11,18 +11,18 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_label": "Support & Assistance",
-    "sidebar_position": 5
+    "sidebar_label": "Guide",
+    "sidebar_position": 1
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "OSCDocs - Support & Assistance",
-    "permalink": "/category/oscdocs---support--assistance"
+    "title": "Support & Assistance",
+    "permalink": "/category/support--assistance"
   },
   "next": {
-    "title": "Documentation en cours de construction",
-    "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
+    "title": "Zammad",
+    "permalink": "/category/zammad"
   }
 }

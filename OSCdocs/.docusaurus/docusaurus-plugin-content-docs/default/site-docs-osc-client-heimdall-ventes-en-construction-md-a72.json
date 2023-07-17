@@ -16,11 +16,11 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "Caisse",
-    "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+    "title": "Point of Sale",
+    "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
   },
   "next": {
-    "title": "OSCDocs - Site Web",
-    "permalink": "/category/oscdocs---site-web"
+    "title": "Site Web",
+    "permalink": "/category/site-web"
   }
 }

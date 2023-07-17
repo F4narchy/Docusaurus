@@ -4,7 +4,7 @@ title: "Documentation en cours de construction"
 
 <!--![Under Construction](/img/under-construction.png)-->
 <div align="center">
-    <img src="/img/under-construction.png" alt="Under Construction" />
+    <img src="/img/under_construction2.png" alt="Under Construction" />
 </div>
 
 # Bienvenue dans notre documentation !

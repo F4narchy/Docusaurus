@@ -5,12 +5,12 @@
   "permalink": "/category/oscdocs---ventes",
   "navigation": {
     "previous": {
-      "title": "Documentation en cours de construction",
-      "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+      "title": "Expenses",
+      "permalink": "/OSCClient/Heimdall/Finance/expenses"
     },
     "next": {
-      "title": "Caisse",
-      "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+      "title": "Point of Sale",
+      "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
     }
   }
 }

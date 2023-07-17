@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Heimdall'
+sidebar_label: 'Guide Heimdall'
 sidebar_position: 0
 ---
 

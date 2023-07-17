@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Caisse'
-sidebar_position: 6
+sidebar_position: 1
 ---
 
 # Documentation de formation pour "Caisse"

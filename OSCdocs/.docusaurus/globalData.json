@@ -71,13 +71,13 @@
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/Heimdall/Finance/convert-en",
-              "path": "/OSCClient/Heimdall/Finance/convert-en",
+              "id": "OSCClient/Heimdall/Finance/en_construction",
+              "path": "/OSCClient/Heimdall/Finance/en_construction",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "OSCClient/Heimdall/Finance/en_construction",
-              "path": "/OSCClient/Heimdall/Finance/en_construction",
+              "id": "OSCClient/Heimdall/Finance/expenses",
+              "path": "/OSCClient/Heimdall/Finance/expenses",
               "sidebar": "oscdocsSidebar"
             },
             {
@@ -116,6 +116,21 @@
               "sidebar": "oscdocsSidebar"
             },
             {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
               "id": "OSCClient/Heimdall/Productivité/en_construction",
               "path": "/OSCClient/Heimdall/Productivité/en_construction",
               "sidebar": "oscdocsSidebar"
@@ -151,6 +166,11 @@
               "sidebar": "oscdocsSidebar"
             },
             {
+              "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "path": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
               "id": "OSCClient/Heimdall/Ventes/caisse-client",
               "path": "/OSCClient/Heimdall/Ventes/caisse-client",
               "sidebar": "oscdocsSidebar"
@@ -158,6 +178,11 @@
             {
               "id": "OSCClient/Heimdall/Ventes/en_construction",
               "path": "/OSCClient/Heimdall/Ventes/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+              "path": "/OSCClient/Heimdall/Ventes/point_of_sale",
               "sidebar": "oscdocsSidebar"
             },
             {
@@ -216,63 +241,73 @@
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---heimdall",
-              "path": "/category/oscdocs---heimdall",
+              "id": "/category/heimdall",
+              "path": "/category/heimdall",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---finance",
-              "path": "/category/oscdocs---finance",
+              "id": "/category/finance",
+              "path": "/category/finance",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---ventes",
-              "path": "/category/oscdocs---ventes",
+              "id": "/category/ventes",
+              "path": "/category/ventes",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---site-web",
-              "path": "/category/oscdocs---site-web",
+              "id": "/category/site-web",
+              "path": "/category/site-web",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---inventaire--mrp",
-              "path": "/category/oscdocs---inventaire--mrp",
+              "id": "/category/inventaire--mrp",
+              "path": "/category/inventaire--mrp",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---ressources-humaines",
-              "path": "/category/oscdocs---ressources-humaines",
+              "id": "/category/ressources-humaines",
+              "path": "/category/ressources-humaines",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---marketing",
-              "path": "/category/oscdocs---marketing",
+              "id": "/category/marketing",
+              "path": "/category/marketing",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---services",
-              "path": "/category/oscdocs---services",
+              "id": "/category/services",
+              "path": "/category/services",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---productivité",
-              "path": "/category/oscdocs---productivité",
+              "id": "/category/productivité",
+              "path": "/category/productivité",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---divers",
-              "path": "/category/oscdocs---divers",
+              "id": "/category/divers",
+              "path": "/category/divers",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---partage-de-fichiers",
-              "path": "/category/oscdocs---partage-de-fichiers",
+              "id": "/category/partage-de-fichiers",
+              "path": "/category/partage-de-fichiers",
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "/category/oscdocs---support--assistance",
-              "path": "/category/oscdocs---support--assistance",
+              "id": "/category/nextcloud",
+              "path": "/category/nextcloud",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/support--assistance",
+              "path": "/category/support--assistance",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/zammad",
+              "path": "/category/zammad",
               "sidebar": "oscdocsSidebar"
             },
             {

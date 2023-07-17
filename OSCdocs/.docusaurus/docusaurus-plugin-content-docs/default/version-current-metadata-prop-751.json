@@ -98,19 +98,19 @@
           },
           {
             "type": "category",
-            "label": "OSCDocs - Heimdall",
+            "label": "Heimdall",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
-                "label": "Heimdall",
+                "label": "Guide Heimdall",
                 "href": "/OSCClient/Heimdall/heimdall-client",
                 "docId": "OSCClient/Heimdall/heimdall-client"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Finance",
+                "label": "Finance",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -128,22 +128,22 @@
                   },
                   {
                     "type": "link",
-                    "label": "Expenses",
-                    "href": "/OSCClient/Heimdall/Finance/convert-en",
-                    "docId": "OSCClient/Heimdall/Finance/convert-en"
-                  },
-                  {
-                    "type": "link",
                     "label": "Documentation en cours de construction",
                     "href": "/OSCClient/Heimdall/Finance/en_construction",
                     "docId": "OSCClient/Heimdall/Finance/en_construction"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Expenses",
+                    "href": "/OSCClient/Heimdall/Finance/expenses",
+                    "docId": "OSCClient/Heimdall/Finance/expenses"
                   }
                 ],
-                "href": "/category/oscdocs---finance"
+                "href": "/category/finance"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Ventes",
+                "label": "Ventes",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -155,16 +155,22 @@
                   },
                   {
                     "type": "link",
+                    "label": "Point of Sale",
+                    "href": "/OSCClient/Heimdall/Ventes/point_of_sale",
+                    "docId": "OSCClient/Heimdall/Ventes/point_of_sale"
+                  },
+                  {
+                    "type": "link",
                     "label": "Documentation en cours de construction",
                     "href": "/OSCClient/Heimdall/Ventes/en_construction",
                     "docId": "OSCClient/Heimdall/Ventes/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---ventes"
+                "href": "/category/ventes"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Site Web",
+                "label": "Site Web",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -181,11 +187,11 @@
                     "docId": "OSCClient/Heimdall/Site Web/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---site-web"
+                "href": "/category/site-web"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Inventaire & MRP",
+                "label": "Inventaire & MRP",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -196,11 +202,11 @@
                     "docId": "OSCClient/Heimdall/Inventaire & MRP/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---inventaire--mrp"
+                "href": "/category/inventaire--mrp"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Ressources Humaines",
+                "label": "Ressources Humaines",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -211,11 +217,11 @@
                     "docId": "OSCClient/Heimdall/Ressources Humaines/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---ressources-humaines"
+                "href": "/category/ressources-humaines"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Marketing",
+                "label": "Marketing",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -226,11 +232,11 @@
                     "docId": "OSCClient/Heimdall/Marketing/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---marketing"
+                "href": "/category/marketing"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Services",
+                "label": "Services",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -241,11 +247,11 @@
                     "docId": "OSCClient/Heimdall/Services/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---services"
+                "href": "/category/services"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Productivité",
+                "label": "Productivité",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -256,11 +262,11 @@
                     "docId": "OSCClient/Heimdall/Productivité/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---productivité"
+                "href": "/category/productivité"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Divers",
+                "label": "Divers",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -271,11 +277,11 @@
                     "docId": "OSCClient/Heimdall/Divers/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---divers"
+                "href": "/category/divers"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Partage de Fichiers",
+                "label": "Partage de Fichiers",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -286,25 +292,67 @@
                     "docId": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client"
                   },
                   {
+                    "type": "category",
+                    "label": "Nextcloud",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Introduction",
+                        "href": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+                        "docId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Accessing your files using the Nextcloud Web interface",
+                        "href": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+                        "docId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Documentation en cours de construction",
+                        "href": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+                        "docId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+                      }
+                    ],
+                    "href": "/category/nextcloud"
+                  },
+                  {
                     "type": "link",
                     "label": "Documentation en cours de construction",
                     "href": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
                     "docId": "OSCClient/Heimdall/Partage de Fichiers/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---partage-de-fichiers"
+                "href": "/category/partage-de-fichiers"
               },
               {
                 "type": "category",
-                "label": "OSCDocs - Support & Assistance",
+                "label": "Support & Assistance",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
-                    "label": "Support & Assistance",
+                    "label": "Guide",
                     "href": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
                     "docId": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Zammad",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Introduction",
+                        "href": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+                        "docId": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad"
+                      }
+                    ],
+                    "href": "/category/zammad"
                   },
                   {
                     "type": "link",
@@ -313,10 +361,10 @@
                     "docId": "OSCClient/Heimdall/Support & Assistance/en_construction"
                   }
                 ],
-                "href": "/category/oscdocs---support--assistance"
+                "href": "/category/support--assistance"
               }
             ],
-            "href": "/category/oscdocs---heimdall"
+            "href": "/category/heimdall"
           }
         ],
         "href": "/category/oscdocs---client"
@@ -462,16 +510,16 @@
       "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
       "sidebar": "oscdocsSidebar"
     },
-    "OSCClient/Heimdall/Finance/convert-en": {
-      "id": "OSCClient/Heimdall/Finance/convert-en",
-      "title": "Expenses",
-      "description": "Odoo Expenses streamlines the management of expenses. After an",
-      "sidebar": "oscdocsSidebar"
-    },
     "OSCClient/Heimdall/Finance/en_construction": {
       "id": "OSCClient/Heimdall/Finance/en_construction",
       "title": "Documentation en cours de construction",
       "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/Heimdall/Finance/expenses": {
+      "id": "OSCClient/Heimdall/Finance/expenses",
+      "title": "Expenses",
+      "description": "Odoo Expenses streamlines the management of expenses. After an",
       "sidebar": "oscdocsSidebar"
     },
     "OSCClient/Heimdall/Finance/note-de-frais-client": {
@@ -516,6 +564,24 @@
       "description": "Introduction à Nextcloud",
       "sidebar": "oscdocsSidebar"
     },
+    "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi": {
+      "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+      "title": "Accessing your files using the Nextcloud Web interface",
+      "description": "You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit, delete, share, and re-share files.",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction": {
+      "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+      "title": "Documentation en cours de construction",
+      "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud": {
+      "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+      "title": "Nextcloud",
+      "description": "Nextcloud latest user manual introduction",
+      "sidebar": "oscdocsSidebar"
+    },
     "OSCClient/Heimdall/Productivité/en_construction": {
       "id": "OSCClient/Heimdall/Productivité/en_construction",
       "title": "Documentation en cours de construction",
@@ -558,6 +624,12 @@
       "description": "Présentation de Zammad",
       "sidebar": "oscdocsSidebar"
     },
+    "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad": {
+      "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+      "title": "About",
+      "description": "Zammad",
+      "sidebar": "oscdocsSidebar"
+    },
     "OSCClient/Heimdall/Ventes/caisse-client": {
       "id": "OSCClient/Heimdall/Ventes/caisse-client",
       "title": "Documentation de formation pour \"Caisse\"",
@@ -568,6 +640,12 @@
       "id": "OSCClient/Heimdall/Ventes/en_construction",
       "title": "Documentation en cours de construction",
       "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+      "sidebar": "oscdocsSidebar"
+    },
+    "OSCClient/Heimdall/Ventes/point_of_sale": {
+      "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+      "title": "Point of Sale",
+      "description": "With Odoo Point of Sale, run your shops and restaurants easily. The",
       "sidebar": "oscdocsSidebar"
     },
     "oscdocs-intro": {

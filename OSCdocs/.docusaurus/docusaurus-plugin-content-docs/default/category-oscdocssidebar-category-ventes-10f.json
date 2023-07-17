@@ -1,0 +1,16 @@
+{
+  "title": "Ventes",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/ventes",
+  "permalink": "/category/ventes",
+  "navigation": {
+    "previous": {
+      "title": "Expenses",
+      "permalink": "/OSCClient/Heimdall/Finance/expenses"
+    },
+    "next": {
+      "title": "Caisse",
+      "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+    }
+  }
+}

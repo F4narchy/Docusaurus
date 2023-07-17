@@ -11,18 +11,18 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_label": "Caisse",
-    "sidebar_position": 6
+    "sidebar_position": 1
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "OSCDocs - Ventes",
-    "permalink": "/category/oscdocs---ventes"
+    "title": "Ventes",
+    "permalink": "/category/ventes"
   },
   "next": {
-    "title": "Documentation en cours de construction",
-    "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+    "title": "Point of Sale",
+    "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
   }
 }

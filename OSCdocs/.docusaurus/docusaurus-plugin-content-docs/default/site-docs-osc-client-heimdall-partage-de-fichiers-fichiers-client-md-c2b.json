@@ -18,11 +18,11 @@
   },
   "sidebar": "oscdocsSidebar",
   "previous": {
-    "title": "OSCDocs - Partage de Fichiers",
-    "permalink": "/category/oscdocs---partage-de-fichiers"
+    "title": "Partage de Fichiers",
+    "permalink": "/category/partage-de-fichiers"
   },
   "next": {
-    "title": "Documentation en cours de construction",
-    "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction"
+    "title": "Nextcloud",
+    "permalink": "/category/nextcloud"
   }
 }

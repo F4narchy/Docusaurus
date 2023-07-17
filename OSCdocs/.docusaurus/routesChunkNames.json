@@ -218,12 +218,36 @@
     },
     "config": "config---index-20-copy-5-e-9-4f5"
   },
-  "/-3ae": {
+  "/-27f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---7-c-8-422"
     },
     "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/category/divers-616": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-diverseb-9-937"
+  },
+  "/category/finance-678": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-financec-11-1d3"
+  },
+  "/category/heimdall-c7a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-heimdall-8-b-5-285"
+  },
+  "/category/inventaire--mrp-75c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-inventaire-mrp-6-db-e33"
+  },
+  "/category/marketing-dac": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-marketinge-65-87a"
+  },
+  "/category/nextcloud-add": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-nextcloudb-1-d-3e3"
   },
   "/category/oscdocs---admin-ca9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -233,53 +257,29 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-clienta-73-a33"
   },
-  "/category/oscdocs---divers-e19": {
+  "/category/partage-de-fichiers-134": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-diversad-9-b8c"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-partage-de-fichiers-190-5d0"
   },
-  "/category/oscdocs---finance-917": {
+  "/category/productivité-179": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-finance-6-d-8-32d"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-productiviteda-6-de8"
   },
-  "/category/oscdocs---heimdall-4f1": {
+  "/category/ressources-humaines-1da": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-heimdall-68-c-9af"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-ressources-humainesb-8-d-6a8"
   },
-  "/category/oscdocs---inventaire--mrp-95a": {
+  "/category/services-5d1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-inventaire-mrp-7-e-0-837"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-services-922-cc2"
   },
-  "/category/oscdocs---marketing-2b5": {
+  "/category/site-web-ca1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-marketing-8-e-3-3fe"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-site-web-612-303"
   },
-  "/category/oscdocs---partage-de-fichiers-c93": {
+  "/category/support--assistance-4e1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-partage-de-fichiers-8-be-76c"
-  },
-  "/category/oscdocs---productivité-d83": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-productivite-966-2e5"
-  },
-  "/category/oscdocs---ressources-humaines-483": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-ressources-humainesf-7-b-c72"
-  },
-  "/category/oscdocs---services-4b6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-services-725-abb"
-  },
-  "/category/oscdocs---site-web-1e5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-site-web-78-c-71e"
-  },
-  "/category/oscdocs---support--assistance-fa3": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-support-assistanced-98-ae6"
-  },
-  "/category/oscdocs---ventes-6e6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-ventes-4-e-1-5e6"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-support-assistance-40-e-5df"
   },
   "/category/tutorial---basics-436": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -288,6 +288,14 @@
   "/category/tutorial---extras-521": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-extrasf-6-f-e8d"
+  },
+  "/category/ventes-934": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-ventes-657-4cd"
+  },
+  "/category/zammad-bc6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-zammade-16-961"
   },
   "/OSCAdmin/bitwarden-admin-4df": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -337,13 +345,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-divers-en-construction-4-dd-750"
   },
-  "/OSCClient/Heimdall/Finance/convert-en-bf6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---osc-client-heimdall-finance-convert-ena-6-b-37f"
-  },
   "/OSCClient/Heimdall/Finance/en_construction-cc6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-finance-en-constructiona-56-d25"
+  },
+  "/OSCClient/Heimdall/Finance/expenses-c9f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-finance-expenses-72-a-845"
   },
   "/OSCClient/Heimdall/Finance/note-de-frais-client-659": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -373,6 +381,18 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-partage-de-fichiers-fichiers-clientc-2-b-338"
   },
+  "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi-4e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-nextcloud-files-synchronisation-accessing-files-using-wib-2-f-82a"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction-e1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-nextcloud-files-synchronisation-en-construction-9-b-7-18d"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud-5e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-nextcloud-files-synchronisation-guide-nextcloudae-4-8b0"
+  },
   "/OSCClient/Heimdall/Productivité/en_construction-106": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-productivite-en-constructionddf-68e"
@@ -401,6 +421,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-support-assistance-support-et-assistance-clientdc-0-16d"
   },
+  "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad-050": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-support-assistance-zammad-guide-zammad-04-d-e05"
+  },
   "/OSCClient/Heimdall/Ventes/caisse-client-130": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-ventes-caisse-client-343-bac"
@@ -408,6 +432,10 @@
   "/OSCClient/Heimdall/Ventes/en_construction-417": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---osc-client-heimdall-ventes-en-constructiona-72-e85"
+  },
+  "/OSCClient/Heimdall/Ventes/point_of_sale-900": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-ventes-point-of-sale-266-6cc"
   },
   "/oscdocs-intro-fe8": {
     "__comp": "__comp---theme-doc-item-178-a40",

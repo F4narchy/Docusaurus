@@ -1,0 +1,16 @@
+{
+  "title": "Productivité",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/productivité",
+  "permalink": "/category/productivité",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Services/en_construction"
+    },
+    "next": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Productivité/en_construction"
+    }
+  }
+}
