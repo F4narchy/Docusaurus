@@ -114,14 +114,8 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '3ae'),
+    component: ComponentCreator('/', '37b'),
     routes: [
-      {
-        path: '/category/oscdocs---admin',
-        component: ComponentCreator('/category/oscdocs---admin', 'ca9'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
       {
         path: '/category/oscdocs---client',
         component: ComponentCreator('/category/oscdocs---client', '20e'),
@@ -201,78 +195,6 @@ export default [
         sidebar: "oscdocsSidebar"
       },
       {
-        path: '/category/tutorial---basics',
-        component: ComponentCreator('/category/tutorial---basics', '436'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/category/tutorial---extras',
-        component: ComponentCreator('/category/tutorial---extras', '521'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/bitwarden-admin',
-        component: ComponentCreator('/OSCAdmin/bitwarden-admin', '4df'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/grafana_admin',
-        component: ComponentCreator('/OSCAdmin/grafana_admin', 'd3c'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/guide-admin',
-        component: ComponentCreator('/OSCAdmin/guide-admin', 'b2d'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/heimdall-admin',
-        component: ComponentCreator('/OSCAdmin/heimdall-admin', 'd96'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/honey-pot-admin',
-        component: ComponentCreator('/OSCAdmin/honey-pot-admin', 'b93'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/odoo-admin',
-        component: ComponentCreator('/OSCAdmin/odoo-admin', '3b9'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/portainer-admin',
-        component: ComponentCreator('/OSCAdmin/portainer-admin', '613'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/uptime-kuma-admin',
-        component: ComponentCreator('/OSCAdmin/uptime-kuma-admin', 'b8c'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/zabbix-admin',
-        component: ComponentCreator('/OSCAdmin/zabbix-admin', 'd38'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCAdmin/zammad-admin',
-        component: ComponentCreator('/OSCAdmin/zammad-admin', '63d'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
         path: '/OSCClient/guide-client',
         component: ComponentCreator('/OSCClient/guide-client', 'f2a'),
         exact: true,
@@ -299,12 +221,6 @@ export default [
       {
         path: '/OSCClient/Heimdall/Finance/note-de-frais-client',
         component: ComponentCreator('/OSCClient/Heimdall/Finance/note-de-frais-client', '659'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/OSCClient/Heimdall/Finance/test',
-        component: ComponentCreator('/OSCClient/Heimdall/Finance/test', '8f4'),
         exact: true,
         sidebar: "oscdocsSidebar"
       },
@@ -395,54 +311,6 @@ export default [
       {
         path: '/oscdocs-intro',
         component: ComponentCreator('/oscdocs-intro', 'fe8'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-basics/congratulations',
-        component: ComponentCreator('/tutorial-basics/congratulations', '058'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/tutorial-basics/create-a-blog-post', 'f87'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-basics/create-a-document',
-        component: ComponentCreator('/tutorial-basics/create-a-document', '3f4'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-basics/create-a-page',
-        component: ComponentCreator('/tutorial-basics/create-a-page', '744'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/tutorial-basics/deploy-your-site', '919'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-basics/markdown-features',
-        component: ComponentCreator('/tutorial-basics/markdown-features', '62c'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/tutorial-extras/manage-docs-versions', '367'),
-        exact: true,
-        sidebar: "oscdocsSidebar"
-      },
-      {
-        path: '/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/tutorial-extras/translate-your-site', 'a1c'),
         exact: true,
         sidebar: "oscdocsSidebar"
       }

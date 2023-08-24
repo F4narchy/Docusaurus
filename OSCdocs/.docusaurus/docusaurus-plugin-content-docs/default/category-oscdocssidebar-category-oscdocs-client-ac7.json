@@ -5,8 +5,8 @@
   "permalink": "/category/oscdocs---client",
   "navigation": {
     "previous": {
-      "title": "Grafana",
-      "permalink": "/OSCAdmin/grafana_admin"
+      "title": "OSCDocs Intro",
+      "permalink": "/oscdocs-intro"
     },
     "next": {
       "title": "Guide Client",

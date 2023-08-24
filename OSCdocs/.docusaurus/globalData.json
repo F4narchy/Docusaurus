@@ -11,56 +11,6 @@
           "mainDocId": "oscdocs-intro",
           "docs": [
             {
-              "id": "OSCAdmin/bitwarden-admin",
-              "path": "/OSCAdmin/bitwarden-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/grafana_admin",
-              "path": "/OSCAdmin/grafana_admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/guide-admin",
-              "path": "/OSCAdmin/guide-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/heimdall-admin",
-              "path": "/OSCAdmin/heimdall-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/honey-pot-admin",
-              "path": "/OSCAdmin/honey-pot-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/odoo-admin",
-              "path": "/OSCAdmin/odoo-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/portainer-admin",
-              "path": "/OSCAdmin/portainer-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/uptime-kuma-admin",
-              "path": "/OSCAdmin/uptime-kuma-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/zabbix-admin",
-              "path": "/OSCAdmin/zabbix-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCAdmin/zammad-admin",
-              "path": "/OSCAdmin/zammad-admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
               "id": "OSCClient/guide-client",
               "path": "/OSCClient/guide-client",
               "sidebar": "oscdocsSidebar"
@@ -83,11 +33,6 @@
             {
               "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
               "path": "/OSCClient/Heimdall/Finance/note-de-frais-client",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "OSCClient/Heimdall/Finance/test",
-              "path": "/OSCClient/Heimdall/Finance/test",
               "sidebar": "oscdocsSidebar"
             },
             {
@@ -166,51 +111,6 @@
               "sidebar": "oscdocsSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/tutorial-basics/congratulations",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/tutorial-basics/create-a-blog-post",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/tutorial-basics/create-a-document",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/tutorial-basics/create-a-page",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/tutorial-basics/deploy-your-site",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/tutorial-basics/markdown-features",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tutorial-extras/manage-docs-versions",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/tutorial-extras/translate-your-site",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "/category/oscdocs---admin",
-              "path": "/category/oscdocs---admin",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
               "id": "/category/oscdocs---client",
               "path": "/category/oscdocs---client",
               "sidebar": "oscdocsSidebar"
@@ -273,16 +173,6 @@
             {
               "id": "/category/oscdocs---support--assistance",
               "path": "/category/oscdocs---support--assistance",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/category/tutorial---basics",
-              "sidebar": "oscdocsSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/category/tutorial---extras",
               "sidebar": "oscdocsSidebar"
             }
           ],
