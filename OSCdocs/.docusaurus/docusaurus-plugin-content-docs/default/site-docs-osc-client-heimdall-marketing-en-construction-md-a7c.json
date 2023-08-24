@@ -1,0 +1,26 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Marketing/en_construction",
+  "id": "OSCClient/Heimdall/Marketing/en_construction",
+  "title": "Documentation en cours de construction",
+  "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+  "source": "@site/docs/OSCClient/Heimdall/Marketing/en_construction.md",
+  "sourceDirName": "OSCClient/Heimdall/Marketing",
+  "slug": "/OSCClient/Heimdall/Marketing/en_construction",
+  "permalink": "/OSCClient/Heimdall/Marketing/en_construction",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Marketing/en_construction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Documentation en cours de construction"
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Marketing",
+    "permalink": "/category/marketing"
+  },
+  "next": {
+    "title": "Services",
+    "permalink": "/category/services"
+  }
+}

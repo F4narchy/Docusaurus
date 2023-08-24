@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/bitwarden-admin",
+  "id": "OSCAdmin/bitwarden-admin",
+  "title": "bitwarden-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/bitwarden-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/bitwarden-admin",
+  "permalink": "/OSCAdmin/bitwarden-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/bitwarden-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Bitwarden",
+    "sidebar_position": 9
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Honey Pot",
+    "permalink": "/OSCAdmin/honey-pot-admin"
+  },
+  "next": {
+    "title": "Grafana",
+    "permalink": "/OSCAdmin/grafana_admin"
+  }
+}

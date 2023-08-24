@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/guide-client",
+  "id": "OSCClient/guide-client",
+  "title": "Documentation de formation - Guide Client",
+  "description": "Introduction",
+  "source": "@site/docs/OSCClient/guide-client.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/guide-client",
+  "permalink": "/OSCClient/guide-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/guide-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Guide Client",
+    "sidebar_position": 1
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "OSCDocs - Client",
+    "permalink": "/category/oscdocs---client"
+  },
+  "next": {
+    "title": "Heimdall",
+    "permalink": "/category/heimdall"
+  }
+}

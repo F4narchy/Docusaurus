@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/honey-pot-admin",
+  "id": "OSCAdmin/honey-pot-admin",
+  "title": "honey-pot-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/honey-pot-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/honey-pot-admin",
+  "permalink": "/OSCAdmin/honey-pot-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/honey-pot-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Honey Pot",
+    "sidebar_position": 8
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Portainer",
+    "permalink": "/OSCAdmin/portainer-admin"
+  },
+  "next": {
+    "title": "Bitwarden",
+    "permalink": "/OSCAdmin/bitwarden-admin"
+  }
+}

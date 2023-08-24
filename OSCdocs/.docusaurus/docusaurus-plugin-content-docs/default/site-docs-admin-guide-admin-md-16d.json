@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Admin/guide-admin",
+  "id": "Admin/guide-admin",
+  "title": "Documentation de Heimdall pour l'Administrateur",
+  "description": "Bienvenue dans la documentation de Heimdall destinée aux administrateurs système. Cette documentation a pour objectif de vous guider dans la configuration et la mise en place de l'infrastructure nécessaire pour utiliser Heimdall de manière optimale.",
+  "source": "@site/docs/Admin/guide-admin.md",
+  "sourceDirName": "Admin",
+  "slug": "/Admin/guide-admin",
+  "permalink": "/docs/Admin/guide-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Admin/guide-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Guide admin",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OSCDocs - Heimdall",
+    "permalink": "/docs/category/oscdocs---heimdall"
+  },
+  "next": {
+    "title": "Guide utilisateur",
+    "permalink": "/docs/Admin/guide-utilisateur"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCUtilisateur/guide-utilisateur copy",
+  "id": "OSCUtilisateur/guide-utilisateur copy",
+  "title": "Guide utilisateur",
+  "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall, votre solution tout-en-un pour gérer facilement les différentes applications clientes. Heimdall vous permet d'accéder à plusieurs fonctionnalités essentielles, notamment le site web, les fichiers, le support, la caisse et les notes de frais.",
+  "source": "@site/docs/OSCUtilisateur/guide-utilisateur copy.md",
+  "sourceDirName": "OSCUtilisateur",
+  "slug": "/OSCUtilisateur/guide-utilisateur copy",
+  "permalink": "/docs/OSCUtilisateur/guide-utilisateur copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/guide-utilisateur copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Guide utilisateur old",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Note de frais",
+    "permalink": "/docs/OSCUtilisateur/note-de-frais-utilisateur"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

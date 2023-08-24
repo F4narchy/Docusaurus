@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/SiteWeb/site-web-accueil",
+  "id": "OSCClient/SiteWeb/site-web-accueil",
+  "title": "Documentation de formation pour \"Site Web\"",
+  "description": "Introduction",
+  "source": "@site/docs/OSCClient/SiteWeb/site-web-accueil.md",
+  "sourceDirName": "OSCClient/SiteWeb",
+  "slug": "/OSCClient/SiteWeb/site-web-accueil",
+  "permalink": "/OSCClient/SiteWeb/site-web-accueil",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/SiteWeb/site-web-accueil.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Site Web",
+    "sidebar_position": 1
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "OSCDocs - Site Web",
+    "permalink": "/category/oscdocs---site-web"
+  },
+  "next": {
+    "title": "test",
+    "permalink": "/OSCClient/SiteWeb/test"
+  }
+}

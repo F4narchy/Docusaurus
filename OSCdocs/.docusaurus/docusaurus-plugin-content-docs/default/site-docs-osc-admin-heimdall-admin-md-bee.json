@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/heimdall-admin",
+  "id": "OSCAdmin/heimdall-admin",
+  "title": "heimdall-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/heimdall-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/heimdall-admin",
+  "permalink": "/OSCAdmin/heimdall-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/heimdall-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Heimdall",
+    "sidebar_position": 2
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Guide Admin",
+    "permalink": "/OSCAdmin/guide-admin"
+  },
+  "next": {
+    "title": "Zabbix",
+    "permalink": "/OSCAdmin/zabbix-admin"
+  }
+}

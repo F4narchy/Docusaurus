@@ -1,0 +1,12 @@
+{
+  "title": "OSCDocs - Intro",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/oscdocs---intro",
+  "permalink": "/category/oscdocs---intro",
+  "navigation": {
+    "next": {
+      "title": "OSCDocs Intro",
+      "permalink": "/OSCIntro/oscdocs-intro"
+    }
+  }
+}

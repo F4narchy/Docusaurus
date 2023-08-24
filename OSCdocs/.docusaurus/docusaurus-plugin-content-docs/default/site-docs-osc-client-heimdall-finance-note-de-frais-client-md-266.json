@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Finance/note-de-frais-client",
+  "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+  "title": "Documentation de formation pour \"Notes de frais\"",
+  "description": "Introduction à la fonctionnalité de note de frais",
+  "source": "@site/docs/OSCClient/Heimdall/Finance/note-de-frais-client.md",
+  "sourceDirName": "OSCClient/Heimdall/Finance",
+  "slug": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+  "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/note-de-frais-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Notes de Frais",
+    "sidebar_position": 1
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Finance",
+    "permalink": "/category/finance"
+  },
+  "next": {
+    "title": "test",
+    "permalink": "/OSCClient/Heimdall/Finance/test"
+  }
+}

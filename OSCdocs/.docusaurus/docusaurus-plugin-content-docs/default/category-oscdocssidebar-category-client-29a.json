@@ -1,0 +1,16 @@
+{
+  "title": "Client",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/client",
+  "permalink": "/category/client",
+  "navigation": {
+    "previous": {
+      "title": "Grafana",
+      "permalink": "/OSCAdmin/grafana_admin"
+    },
+    "next": {
+      "title": "Guide Client",
+      "permalink": "/OSCClient/guide-client"
+    }
+  }
+}

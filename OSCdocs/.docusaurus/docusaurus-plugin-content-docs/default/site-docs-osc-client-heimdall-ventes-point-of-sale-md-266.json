@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Ventes/point_of_sale",
+  "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+  "title": "Point of Sale",
+  "description": "With Odoo Point of Sale, run your shops and restaurants easily. The",
+  "source": "@site/docs/OSCClient/Heimdall/Ventes/point_of_sale.md",
+  "sourceDirName": "OSCClient/Heimdall/Ventes",
+  "slug": "/OSCClient/Heimdall/Ventes/point_of_sale",
+  "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/point_of_sale.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Point of Sale",
+    "sidebar_position": 2
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Caisse",
+    "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+  },
+  "next": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+  }
+}

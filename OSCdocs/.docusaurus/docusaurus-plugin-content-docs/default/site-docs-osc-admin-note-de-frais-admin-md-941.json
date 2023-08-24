@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/note-de-frais-admin",
+  "id": "OSCAdmin/note-de-frais-admin",
+  "title": "note-de-frais-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/note-de-frais-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/note-de-frais-admin",
+  "permalink": "/docs/OSCAdmin/note-de-frais-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/note-de-frais-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Note de frais",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Odoo",
+    "permalink": "/docs/OSCAdmin/odoo-admin"
+  },
+  "next": {
+    "title": "OSCDocs - Utilisateur",
+    "permalink": "/docs/category/oscdocs---utilisateur"
+  }
+}

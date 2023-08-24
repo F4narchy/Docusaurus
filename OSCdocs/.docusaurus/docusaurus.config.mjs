@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "OsC",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
@@ -23,18 +23,19 @@ export default {
   },
   "presets": [
     [
-      "classic",
+      "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/fanarchy/OSCdocs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "routeBasePath": "/",
+          "sidebarPath": "/home/fanarchy/Docusaurus/OSCdocs/sidebars.js",
+          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/fanarchy/OSCdocs/src/css/custom.css"
+          "customCss": "/home/fanarchy/Docusaurus/OSCdocs/src/css/custom.css"
         }
       }
     ]
@@ -50,9 +51,9 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "sidebarId": "oscdocsSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "OsCDocs"
         },
         {
           "to": "/blog",

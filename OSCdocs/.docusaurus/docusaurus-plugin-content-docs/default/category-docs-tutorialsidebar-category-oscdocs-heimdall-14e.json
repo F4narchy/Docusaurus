@@ -1,0 +1,16 @@
+{
+  "title": "OSCDocs - Heimdall",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/oscdocs---heimdall",
+  "permalink": "/docs/category/oscdocs---heimdall",
+  "navigation": {
+    "previous": {
+      "title": "Guide admin",
+      "permalink": "/docs/OSCAdmin/guide-admin"
+    },
+    "next": {
+      "title": "Guide utilisateur",
+      "permalink": "/docs/OSCUtilisateur/guide-utilisateur"
+    }
+  }
+}

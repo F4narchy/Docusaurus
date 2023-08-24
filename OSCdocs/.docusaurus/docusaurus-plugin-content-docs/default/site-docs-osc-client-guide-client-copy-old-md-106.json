@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/guide-client-copy-old",
+  "id": "OSCClient/guide-client-copy-old",
+  "title": "Guide de l'utilisateur pour Heimdall",
+  "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall ! Cette documentation a pour objectif de vous fournir toutes les informations nécessaires pour comprendre et utiliser Heimdall de manière efficace, même sans connaissance technique.",
+  "source": "@site/docs/OSCClient/guide-client-copy-old.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/guide-client-copy-old",
+  "permalink": "/OSCClient/guide-client-copy-old",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/guide-client-copy-old.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "Guide utilisateur old 2",
+    "sidebar_position": 11
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "test",
+    "permalink": "/OSCClient/test"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/category/tutorial---basics"
+  }
+}

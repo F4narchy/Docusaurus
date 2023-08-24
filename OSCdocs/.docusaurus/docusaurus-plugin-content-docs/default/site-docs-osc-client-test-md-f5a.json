@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/test",
+  "id": "OSCClient/test",
+  "title": "Documentation de formation pour les clients",
+  "description": "Introduction",
+  "source": "@site/docs/OSCClient/test.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/test",
+  "permalink": "/OSCClient/test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "test",
+    "sidebar_position": 10
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/category/tutorial---basics"
+  }
+}

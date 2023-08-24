@@ -1,77 +1,332 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
-          "mainDocId": "intro",
+          "path": "/",
+          "mainDocId": "oscdocs-intro",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "id": "OSCAdmin/bitwarden-admin",
+              "path": "/OSCAdmin/bitwarden-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/grafana_admin",
+              "path": "/OSCAdmin/grafana_admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/guide-admin",
+              "path": "/OSCAdmin/guide-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/heimdall-admin",
+              "path": "/OSCAdmin/heimdall-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/honey-pot-admin",
+              "path": "/OSCAdmin/honey-pot-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/odoo-admin",
+              "path": "/OSCAdmin/odoo-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/portainer-admin",
+              "path": "/OSCAdmin/portainer-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/uptime-kuma-admin",
+              "path": "/OSCAdmin/uptime-kuma-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/zabbix-admin",
+              "path": "/OSCAdmin/zabbix-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCAdmin/zammad-admin",
+              "path": "/OSCAdmin/zammad-admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/guide-client",
+              "path": "/OSCClient/guide-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Divers/en_construction",
+              "path": "/OSCClient/Heimdall/Divers/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Finance/en_construction",
+              "path": "/OSCClient/Heimdall/Finance/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Finance/expenses",
+              "path": "/OSCClient/Heimdall/Finance/expenses",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+              "path": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Finance/test",
+              "path": "/OSCClient/Heimdall/Finance/test",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/heimdall-client",
+              "path": "/OSCClient/Heimdall/heimdall-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "path": "/OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Marketing/en_construction",
+              "path": "/OSCClient/Heimdall/Marketing/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "path": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Productivité/en_construction",
+              "path": "/OSCClient/Heimdall/Productivité/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "path": "/OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Services/en_construction",
+              "path": "/OSCClient/Heimdall/Services/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Site Web/en_construction",
+              "path": "/OSCClient/Heimdall/Site Web/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Site Web/site-web-client",
+              "path": "/OSCClient/Heimdall/Site Web/site-web-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Support & Assistance/en_construction",
+              "path": "/OSCClient/Heimdall/Support & Assistance/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "path": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "path": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ventes/caisse-client",
+              "path": "/OSCClient/Heimdall/Ventes/caisse-client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ventes/en_construction",
+              "path": "/OSCClient/Heimdall/Ventes/en_construction",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+              "path": "/OSCClient/Heimdall/Ventes/point_of_sale",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "oscdocs-intro",
+              "path": "/oscdocs-intro",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/congratulations",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/create-a-blog-post",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/create-a-document",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/create-a-page",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/deploy-your-site",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-basics/markdown-features",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-extras/manage-docs-versions",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
+              "path": "/tutorial-extras/translate-your-site",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---admin",
+              "path": "/category/oscdocs---admin",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/oscdocs---client",
+              "path": "/category/oscdocs---client",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/heimdall",
+              "path": "/category/heimdall",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/finance",
+              "path": "/category/finance",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/ventes",
+              "path": "/category/ventes",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/site-web",
+              "path": "/category/site-web",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/inventaire--mrp",
+              "path": "/category/inventaire--mrp",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/ressources-humaines",
+              "path": "/category/ressources-humaines",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/marketing",
+              "path": "/category/marketing",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/services",
+              "path": "/category/services",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/productivité",
+              "path": "/category/productivité",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/divers",
+              "path": "/category/divers",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/partage-de-fichiers",
+              "path": "/category/partage-de-fichiers",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/nextcloud",
+              "path": "/category/nextcloud",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/support--assistance",
+              "path": "/category/support--assistance",
+              "sidebar": "oscdocsSidebar"
+            },
+            {
+              "id": "/category/zammad",
+              "path": "/category/zammad",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
+              "path": "/category/tutorial---basics",
+              "sidebar": "oscdocsSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
+              "path": "/category/tutorial---extras",
+              "sidebar": "oscdocsSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "oscdocsSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/oscdocs-intro",
+                "label": "oscdocs-intro"
               }
             }
           }

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+  "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+  "title": "About",
+  "description": "Zammad",
+  "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad.md",
+  "sourceDirName": "OSCClient/Heimdall/Support & Assistance/Zammad",
+  "slug": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+  "permalink": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Zammad",
+    "permalink": "/category/zammad"
+  },
+  "next": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
+  }
+}

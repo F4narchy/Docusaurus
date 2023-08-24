@@ -1,0 +1,16 @@
+{
+  "title": "Partage de Fichiers - Nextcloud",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/partage-de-fichiers---nextcloud",
+  "permalink": "/category/partage-de-fichiers---nextcloud",
+  "navigation": {
+    "previous": {
+      "title": "Mes Fichiers",
+      "permalink": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client"
+    },
+    "next": {
+      "title": "Accessing your files using the Nextcloud Web interface",
+      "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi"
+    }
+  }
+}

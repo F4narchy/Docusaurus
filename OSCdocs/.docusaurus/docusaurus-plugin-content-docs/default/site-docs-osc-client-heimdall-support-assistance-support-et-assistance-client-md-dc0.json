@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+  "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+  "title": "Documentation de formation pour \"Support & Assistance\"",
+  "description": "Présentation de Zammad",
+  "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
+  "sourceDirName": "OSCClient/Heimdall/Support & Assistance",
+  "slug": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+  "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Guide",
+    "sidebar_position": 1
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Support & Assistance",
+    "permalink": "/category/support--assistance"
+  },
+  "next": {
+    "title": "Zammad",
+    "permalink": "/category/zammad"
+  }
+}

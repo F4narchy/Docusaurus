@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Ventes/point-of-sale",
+  "id": "OSCClient/Heimdall/Ventes/point-of-sale",
+  "title": "point-of-sale",
+  "description": "",
+  "source": "@site/docs/OSCClient/Heimdall/Ventes/point-of-sale.md",
+  "sourceDirName": "OSCClient/Heimdall/Ventes",
+  "slug": "/OSCClient/Heimdall/Ventes/point-of-sale",
+  "permalink": "/OSCClient/Heimdall/Ventes/point-of-sale",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/point-of-sale.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+  },
+  "next": {
+    "title": "point_of_sale",
+    "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
+  }
+}

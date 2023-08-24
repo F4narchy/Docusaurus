@@ -1,0 +1,16 @@
+{
+  "title": "Zammad",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/zammad",
+  "permalink": "/category/zammad",
+  "navigation": {
+    "previous": {
+      "title": "Guide",
+      "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad"
+    }
+  }
+}

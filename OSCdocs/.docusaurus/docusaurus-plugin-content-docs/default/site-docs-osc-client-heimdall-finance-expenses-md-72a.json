@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Finance/expenses",
+  "id": "OSCClient/Heimdall/Finance/expenses",
+  "title": "Expenses",
+  "description": "Odoo Expenses streamlines the management of expenses. After an",
+  "source": "@site/docs/OSCClient/Heimdall/Finance/expenses.md",
+  "sourceDirName": "OSCClient/Heimdall/Finance",
+  "slug": "/OSCClient/Heimdall/Finance/expenses",
+  "permalink": "/OSCClient/Heimdall/Finance/expenses",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/expenses.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+  },
+  "next": {
+    "title": "Ventes",
+    "permalink": "/category/ventes"
+  }
+}

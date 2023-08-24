@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Finance/test",
+  "id": "OSCClient/Heimdall/Finance/test",
+  "title": ":show-content:",
+  "description": "---",
+  "source": "@site/docs/OSCClient/Heimdall/Finance/test.md",
+  "sourceDirName": "OSCClient/Heimdall/Finance",
+  "slug": "/OSCClient/Heimdall/Finance/test",
+  "permalink": "/OSCClient/Heimdall/Finance/test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "test",
+    "sidebar_position": 2
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Notes de Frais",
+    "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client"
+  },
+  "next": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+  }
+}

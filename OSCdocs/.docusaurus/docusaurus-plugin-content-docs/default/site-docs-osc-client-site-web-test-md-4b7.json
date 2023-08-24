@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/SiteWeb/test",
+  "id": "OSCClient/SiteWeb/test",
+  "title": ":show-content:",
+  "description": "---",
+  "source": "@site/docs/OSCClient/SiteWeb/test.md",
+  "sourceDirName": "OSCClient/SiteWeb",
+  "slug": "/OSCClient/SiteWeb/test",
+  "permalink": "/OSCClient/SiteWeb/test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/SiteWeb/test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "test",
+    "sidebar_position": 2
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Guide utilisateur old 2",
+    "permalink": "/OSCClient/guide-client-copy-old"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/category/tutorial---basics"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCUtilisateur/fichiers-utilisateur",
+  "id": "OSCUtilisateur/fichiers-utilisateur",
+  "title": "fichiers-utilisateur",
+  "description": "",
+  "source": "@site/docs/OSCUtilisateur/fichiers-utilisateur.md",
+  "sourceDirName": "OSCUtilisateur",
+  "slug": "/OSCUtilisateur/fichiers-utilisateur",
+  "permalink": "/docs/OSCUtilisateur/fichiers-utilisateur",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/fichiers-utilisateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Fichiers",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Site Web",
+    "permalink": "/docs/OSCUtilisateur/site-web-utilisateur"
+  },
+  "next": {
+    "title": "Support & Maintenance",
+    "permalink": "/docs/OSCUtilisateur/support-et-maintenance-utilisateur"
+  }
+}

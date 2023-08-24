@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/grafana_admin",
+  "id": "OSCAdmin/grafana_admin",
+  "title": "grafana_admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/grafana_admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/grafana_admin",
+  "permalink": "/OSCAdmin/grafana_admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/grafana_admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Grafana",
+    "sidebar_position": 10
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Bitwarden",
+    "permalink": "/OSCAdmin/bitwarden-admin"
+  },
+  "next": {
+    "title": "OSCDocs - Client",
+    "permalink": "/category/oscdocs---client"
+  }
+}

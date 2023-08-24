@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/guide-utilisateur copy",
+  "id": "OSCAdmin/guide-utilisateur copy",
+  "title": "Guide utilisateur",
+  "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall, votre solution tout-en-un pour gérer facilement les différentes applications clientes. Heimdall vous permet d'accéder à plusieurs fonctionnalités essentielles, notamment le site web, les fichiers, le support, la caisse et les notes de frais.",
+  "source": "@site/docs/OSCAdmin/guide-utilisateur copy.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/guide-utilisateur copy",
+  "permalink": "/docs/OSCAdmin/guide-utilisateur copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/guide-utilisateur copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Guide utilisateur old",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guide utilisateur",
+    "permalink": "/docs/OSCAdmin/guide-utilisateur"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

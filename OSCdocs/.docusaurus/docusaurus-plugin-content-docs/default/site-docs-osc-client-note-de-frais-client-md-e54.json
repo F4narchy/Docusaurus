@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/note-de-frais-client",
+  "id": "OSCClient/note-de-frais-client",
+  "title": "Documentation de formation pour \"Notes de frais\"",
+  "description": "Introduction à la fonctionnalité de note de frais",
+  "source": "@site/docs/OSCClient/note-de-frais-client.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/note-de-frais-client",
+  "permalink": "/OSCClient/note-de-frais-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/note-de-frais-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Notes de Frais",
+    "sidebar_position": 7
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Caisse",
+    "permalink": "/OSCClient/caisse-client"
+  },
+  "next": {
+    "title": "Guide utilisateur old",
+    "permalink": "/OSCClient/guide-client-copy"
+  }
+}

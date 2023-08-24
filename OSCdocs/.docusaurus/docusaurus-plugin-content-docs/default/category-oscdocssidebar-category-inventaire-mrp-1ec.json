@@ -1,0 +1,16 @@
+{
+  "title": "Inventaire & MRP",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/inventaire--mrp",
+  "permalink": "/category/inventaire--mrp",
+  "navigation": {
+    "previous": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Site Web/en_construction"
+    },
+    "next": {
+      "title": "Documentation en cours de construction",
+      "permalink": "/OSCClient/Heimdall/Inventaire & MRP/en_construction"
+    }
+  }
+}

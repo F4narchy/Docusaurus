@@ -1,204 +1,476 @@
 {
-  "/blog-565": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-1fd": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---docusaurus-debug-025-687"
+    }
+  },
+  "/__docusaurus/debug/config-5dc": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-025-687"
+    }
+  },
+  "/__docusaurus/debug/content-bd4": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-025-687"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-9d4": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-025-687"
+    }
+  },
+  "/__docusaurus/debug/metadata-f07": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-025-687"
+    }
+  },
+  "/__docusaurus/debug/registry-d23": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-025-687"
+    }
+  },
+  "/__docusaurus/debug/routes-a67": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-025-687"
+    }
+  },
+  "/blog-125": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-281-4d0"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blogf-96-107"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/archive-035": {
-    "__comp": "9e4087bc",
+  "/blog/archive-a69": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "archive": "b2f554cd"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/first-blog-post-4d3": {
-    "__comp": "ccc49370",
+  "/blog/first-blog-post-0d4": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-b56": {
-    "__comp": "ccc49370",
+  "/blog/greetings-520": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-greetingsa-7-a-c48"
   },
-  "/blog/mdx-blog-post-d83": {
-    "__comp": "ccc49370",
+  "/blog/long-blog-post-775": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/tags-851": {
-    "__comp": "01a85c17",
+  "/blog/mdx-blog-post-c08": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags/docusaurus-b84": {
-    "__comp": "6875c492",
+  "/blog/tags-32c": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-985": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-281-4d0"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
-  "/blog/tags/facebook-f3f": {
-    "__comp": "6875c492",
+  "/blog/tags/facebook-b81": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
   },
-  "/blog/tags/hello-786": {
-    "__comp": "6875c492",
+  "/blog/tags/greetings-9f1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blogf-96-107"
+      }
+    ],
+    "tag": "tag---blog-tags-greetingsce-0-3c2",
+    "listMetadata": "listMetadata---blog-tags-greetingsc-8-c-f35"
+  },
+  "/blog/tags/hello-433": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-281-4d0"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
   },
-  "/blog/tags/hola-bf1": {
-    "__comp": "6875c492",
+  "/blog/tags/hola-24e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/blog/welcome-9f4": {
-    "__comp": "ccc49370",
+  "/blog/welcome-7f1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "d7ade536"
+      "plugin": "plugin---blog-281-4d0"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-eea": {
-    "__comp": "1f391b9e",
+  "/index%20copy-57b": {
+    "__comp": "__comp---site-src-pages-index-copy-tsxddc-f6b",
     "__context": {
-      "plugin": "6c015f51"
+      "plugin": "plugin---index-20-copy-06-d-203"
     },
-    "content": "393be207"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
-  "/docs-329": {
-    "__comp": "1be78505",
+  "/-6d2": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "e0fc68c2"
+      "plugin": "plugin---index-20-copy-06-d-203"
     },
-    "versionMetadata": "935f2afb"
+    "config": "config---index-20-copy-5-e-9-4f5"
   },
-  "/docs/category/tutorial---basics-d44": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ea88f2a1"
-  },
-  "/docs/category/tutorial---extras-f09": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c844b82d"
-  },
-  "/docs/intro-aed": {
-    "__comp": "17896441",
-    "content": "0e384e19"
-  },
-  "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "17896441",
-    "content": "dff1c289"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "17896441",
-    "content": "e44a2883"
-  },
-  "/-8d8": {
-    "__comp": "1df93b7f",
+  "/-27f": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "6c015f51"
+      "plugin": "plugin---7-c-8-422"
     },
-    "config": "5e9f5e1a"
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/category/divers-616": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-diverseb-9-937"
+  },
+  "/category/finance-678": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-financec-11-1d3"
+  },
+  "/category/heimdall-c7a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-heimdall-8-b-5-285"
+  },
+  "/category/inventaire--mrp-75c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-inventaire-mrp-6-db-e33"
+  },
+  "/category/marketing-dac": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-marketinge-65-87a"
+  },
+  "/category/nextcloud-add": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-nextcloudb-1-d-3e3"
+  },
+  "/category/oscdocs---admin-ca9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-admin-751-8f9"
+  },
+  "/category/oscdocs---client-20e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-oscdocs-clienta-73-a33"
+  },
+  "/category/partage-de-fichiers-134": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-partage-de-fichiers-190-5d0"
+  },
+  "/category/productivité-179": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-productiviteda-6-de8"
+  },
+  "/category/ressources-humaines-1da": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-ressources-humainesb-8-d-6a8"
+  },
+  "/category/services-5d1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-services-922-cc2"
+  },
+  "/category/site-web-ca1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-site-web-612-303"
+  },
+  "/category/support--assistance-4e1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-support-assistance-40-e-5df"
+  },
+  "/category/tutorial---basics-436": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-basics-0-fa-265"
+  },
+  "/category/tutorial---extras-521": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-tutorial-extrasf-6-f-e8d"
+  },
+  "/category/ventes-934": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-ventes-657-4cd"
+  },
+  "/category/zammad-bc6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-zammade-16-961"
+  },
+  "/OSCAdmin/bitwarden-admin-4df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-bitwarden-admin-880-ac5"
+  },
+  "/OSCAdmin/grafana_admin-d3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-grafana-admin-225-fa4"
+  },
+  "/OSCAdmin/guide-admin-b2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-guide-admin-83-a-017"
+  },
+  "/OSCAdmin/heimdall-admin-d96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-heimdall-adminbee-324"
+  },
+  "/OSCAdmin/honey-pot-admin-b93": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-honey-pot-admin-064-624"
+  },
+  "/OSCAdmin/odoo-admin-3b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-odoo-admin-158-944"
+  },
+  "/OSCAdmin/portainer-admin-613": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-portainer-admincf-8-b28"
+  },
+  "/OSCAdmin/uptime-kuma-admin-b8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-uptime-kuma-admin-4-c-9-063"
+  },
+  "/OSCAdmin/zabbix-admin-d38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-zabbix-admin-720-8ba"
+  },
+  "/OSCAdmin/zammad-admin-63d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-admin-zammad-admin-7-be-b29"
+  },
+  "/OSCClient/guide-client-f2a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-guide-client-721-5a6"
+  },
+  "/OSCClient/Heimdall/Divers/en_construction-50d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-divers-en-construction-4-dd-750"
+  },
+  "/OSCClient/Heimdall/Finance/en_construction-cc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-finance-en-constructiona-56-d25"
+  },
+  "/OSCClient/Heimdall/Finance/expenses-c9f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-finance-expenses-72-a-845"
+  },
+  "/OSCClient/Heimdall/Finance/note-de-frais-client-659": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-finance-note-de-frais-client-266-db2"
+  },
+  "/OSCClient/Heimdall/Finance/test-8f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-finance-test-582-70d"
+  },
+  "/OSCClient/Heimdall/heimdall-client-8b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-heimdall-clientbc-8-ef1"
+  },
+  "/OSCClient/Heimdall/Inventaire & MRP/en_construction-05f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-inventaire-mrp-en-constructione-13-658"
+  },
+  "/OSCClient/Heimdall/Marketing/en_construction-270": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-marketing-en-constructiona-7-c-3ab"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/en_construction-891": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-en-construction-344-369"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client-0e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-fichiers-clientc-2-b-338"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi-4e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-nextcloud-files-synchronisation-accessing-files-using-wib-2-f-82a"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction-e1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-nextcloud-files-synchronisation-en-construction-9-b-7-18d"
+  },
+  "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud-5e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-partage-de-fichiers-nextcloud-files-synchronisation-guide-nextcloudae-4-8b0"
+  },
+  "/OSCClient/Heimdall/Productivité/en_construction-106": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-productivite-en-constructionddf-68e"
+  },
+  "/OSCClient/Heimdall/Ressources Humaines/en_construction-2de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-ressources-humaines-en-construction-401-51d"
+  },
+  "/OSCClient/Heimdall/Services/en_construction-174": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-services-en-constructionfd-7-35e"
+  },
+  "/OSCClient/Heimdall/Site Web/en_construction-cae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-site-web-en-construction-0-af-91f"
+  },
+  "/OSCClient/Heimdall/Site Web/site-web-client-50f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-site-web-site-web-client-500-df1"
+  },
+  "/OSCClient/Heimdall/Support & Assistance/en_construction-aaf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-support-assistance-en-construction-6-f-6-86d"
+  },
+  "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client-4e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-support-assistance-support-et-assistance-clientdc-0-16d"
+  },
+  "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad-050": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-support-assistance-zammad-guide-zammad-04-d-e05"
+  },
+  "/OSCClient/Heimdall/Ventes/caisse-client-130": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-ventes-caisse-client-343-bac"
+  },
+  "/OSCClient/Heimdall/Ventes/en_construction-417": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-ventes-en-constructiona-72-e85"
+  },
+  "/OSCClient/Heimdall/Ventes/point_of_sale-900": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---osc-client-heimdall-ventes-point-of-sale-266-6cc"
+  },
+  "/oscdocs-intro-fe8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---oscdocs-introd-02-779"
+  },
+  "/tutorial-basics/congratulations-058": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-congratulations-822-79f"
+  },
+  "/tutorial-basics/create-a-blog-post-f87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-create-a-blog-post-533-8b3"
+  },
+  "/tutorial-basics/create-a-document-3f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-create-a-document-1-e-4-f30"
+  },
+  "/tutorial-basics/create-a-page-744": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-create-a-page-5-c-8-d8b"
+  },
+  "/tutorial-basics/deploy-your-site-919": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-deploy-your-sitef-55-bcd"
+  },
+  "/tutorial-basics/markdown-features-62c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-markdown-features-18-c-d7b"
+  },
+  "/tutorial-extras/manage-docs-versions-367": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-manage-docs-versionsdff-033"
+  },
+  "/tutorial-extras/translate-your-site-a1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-translate-your-sitee-44-f13"
   }
 }

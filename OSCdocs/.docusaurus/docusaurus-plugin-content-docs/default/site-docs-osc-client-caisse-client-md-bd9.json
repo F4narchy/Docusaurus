@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/caisse-client",
+  "id": "OSCClient/caisse-client",
+  "title": "Documentation de formation pour \"Caisse\"",
+  "description": "Présentation de la section Caisse",
+  "source": "@site/docs/OSCClient/caisse-client.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/caisse-client",
+  "permalink": "/OSCClient/caisse-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/caisse-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Caisse",
+    "sidebar_position": 6
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Support & Assistance",
+    "permalink": "/OSCClient/support-et-assistance-client"
+  },
+  "next": {
+    "title": "Guide utilisateur old",
+    "permalink": "/OSCClient/guide-client-copy"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCUtilisateur/site-web-client",
+  "id": "OSCUtilisateur/site-web-client",
+  "title": "site-web-client",
+  "description": "",
+  "source": "@site/docs/OSCUtilisateur/site-web-client.md",
+  "sourceDirName": "OSCUtilisateur",
+  "slug": "/OSCUtilisateur/site-web-client",
+  "permalink": "/docs/OSCUtilisateur/site-web-client",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCUtilisateur/site-web-client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Site Web",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heimdall",
+    "permalink": "/docs/OSCUtilisateur/heimdall-client"
+  },
+  "next": {
+    "title": "Fichiers",
+    "permalink": "/docs/OSCUtilisateur/fichiers-client"
+  }
+}

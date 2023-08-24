@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/note-de-frais-utilisateur",
+  "id": "OSCAdmin/note-de-frais-utilisateur",
+  "title": "note-de-frais-utilisateur",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/note-de-frais-utilisateur.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/note-de-frais-utilisateur",
+  "permalink": "/docs/OSCAdmin/note-de-frais-utilisateur",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSCAdmin/note-de-frais-utilisateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Note de frais",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Caisse",
+    "permalink": "/docs/OSCAdmin/caisse-admin"
+  },
+  "next": {
+    "title": "OSCDocs - Utilisateur",
+    "permalink": "/docs/category/oscdocs---utilisateur"
+  }
+}

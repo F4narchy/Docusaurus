@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Heimdall/guide-utilisateur",
+  "id": "Heimdall/guide-utilisateur",
+  "title": "Guide de l'utilisateur pour Heimdall",
+  "description": "Bienvenue dans le guide de l'utilisateur pour Heimdall ! Cette documentation a pour objectif de vous fournir toutes les informations nécessaires pour comprendre et utiliser Heimdall de manière efficace, même sans connaissance technique.",
+  "source": "@site/docs/Heimdall/guide-utilisateur.md",
+  "sourceDirName": "Heimdall",
+  "slug": "/Heimdall/guide-utilisateur",
+  "permalink": "/docs/Heimdall/guide-utilisateur",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Heimdall/guide-utilisateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Guide utilisateur",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guide admin",
+    "permalink": "/docs/Heimdall/guide-admin"
+  },
+  "next": {
+    "title": "Guide utilisateur old",
+    "permalink": "/docs/Heimdall/guide-utilisateur copy"
+  }
+}

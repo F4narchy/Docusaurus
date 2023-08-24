@@ -9,37 +9,989 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/fanarchy/OSCdocs/sidebars.js",
-          "contentPath": "/home/fanarchy/OSCdocs/docs",
-          "contentPathLocalized": "/home/fanarchy/OSCdocs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/fanarchy/Docusaurus/OSCdocs/sidebars.js",
+          "contentPath": "/home/fanarchy/Docusaurus/OSCdocs/docs",
+          "contentPathLocalized": "/home/fanarchy/Docusaurus/OSCdocs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
+              "unversionedId": "OSCAdmin/bitwarden-admin",
+              "id": "OSCAdmin/bitwarden-admin",
+              "title": "bitwarden-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/bitwarden-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/bitwarden-admin",
+              "permalink": "/OSCAdmin/bitwarden-admin",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/bitwarden-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "Bitwarden",
+                "sidebar_position": 9
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Honey Pot",
+                "permalink": "/OSCAdmin/honey-pot-admin"
+              },
+              "next": {
+                "title": "Grafana",
+                "permalink": "/OSCAdmin/grafana_admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/grafana_admin",
+              "id": "OSCAdmin/grafana_admin",
+              "title": "grafana_admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/grafana_admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/grafana_admin",
+              "permalink": "/OSCAdmin/grafana_admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/grafana_admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_label": "Grafana",
+                "sidebar_position": 10
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Bitwarden",
+                "permalink": "/OSCAdmin/bitwarden-admin"
+              },
+              "next": {
+                "title": "OSCDocs - Client",
+                "permalink": "/category/oscdocs---client"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/guide-admin",
+              "id": "OSCAdmin/guide-admin",
+              "title": "Documentation de Heimdall pour l'Administrateur",
+              "description": "Bienvenue dans la documentation de Heimdall destinée aux administrateurs système. Cette documentation a pour objectif de vous guider dans la configuration et la mise en place de l'infrastructure nécessaire pour utiliser Heimdall de manière optimale.",
+              "source": "@site/docs/OSCAdmin/guide-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/guide-admin",
+              "permalink": "/OSCAdmin/guide-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/guide-admin.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
+                "sidebar_label": "Guide Admin",
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Admin",
+                "permalink": "/category/oscdocs---admin"
+              },
+              "next": {
+                "title": "Heimdall",
+                "permalink": "/OSCAdmin/heimdall-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/heimdall-admin",
+              "id": "OSCAdmin/heimdall-admin",
+              "title": "heimdall-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/heimdall-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/heimdall-admin",
+              "permalink": "/OSCAdmin/heimdall-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/heimdall-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Heimdall",
+                "sidebar_position": 2
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Guide Admin",
+                "permalink": "/OSCAdmin/guide-admin"
+              },
+              "next": {
+                "title": "Zabbix",
+                "permalink": "/OSCAdmin/zabbix-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/honey-pot-admin",
+              "id": "OSCAdmin/honey-pot-admin",
+              "title": "honey-pot-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/honey-pot-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/honey-pot-admin",
+              "permalink": "/OSCAdmin/honey-pot-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/honey-pot-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "Honey Pot",
+                "sidebar_position": 8
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Portainer",
+                "permalink": "/OSCAdmin/portainer-admin"
+              },
+              "next": {
+                "title": "Bitwarden",
+                "permalink": "/OSCAdmin/bitwarden-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/odoo-admin",
+              "id": "OSCAdmin/odoo-admin",
+              "title": "odoo-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/odoo-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/odoo-admin",
+              "permalink": "/OSCAdmin/odoo-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/odoo-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "Odoo",
+                "sidebar_position": 6
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Uptime Kuma",
+                "permalink": "/OSCAdmin/uptime-kuma-admin"
+              },
+              "next": {
+                "title": "Portainer",
+                "permalink": "/OSCAdmin/portainer-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/portainer-admin",
+              "id": "OSCAdmin/portainer-admin",
+              "title": "portainer-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/portainer-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/portainer-admin",
+              "permalink": "/OSCAdmin/portainer-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/portainer-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "Portainer",
+                "sidebar_position": 7
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Odoo",
+                "permalink": "/OSCAdmin/odoo-admin"
+              },
+              "next": {
+                "title": "Honey Pot",
+                "permalink": "/OSCAdmin/honey-pot-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/uptime-kuma-admin",
+              "id": "OSCAdmin/uptime-kuma-admin",
+              "title": "uptime-kuma-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/uptime-kuma-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/uptime-kuma-admin",
+              "permalink": "/OSCAdmin/uptime-kuma-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/uptime-kuma-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Uptime Kuma",
+                "sidebar_position": 5
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Zammad",
+                "permalink": "/OSCAdmin/zammad-admin"
+              },
+              "next": {
+                "title": "Odoo",
+                "permalink": "/OSCAdmin/odoo-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/zabbix-admin",
+              "id": "OSCAdmin/zabbix-admin",
+              "title": "zabbix-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/zabbix-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/zabbix-admin",
+              "permalink": "/OSCAdmin/zabbix-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/zabbix-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Zabbix",
+                "sidebar_position": 3
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Heimdall",
+                "permalink": "/OSCAdmin/heimdall-admin"
+              },
+              "next": {
+                "title": "Zammad",
+                "permalink": "/OSCAdmin/zammad-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCAdmin/zammad-admin",
+              "id": "OSCAdmin/zammad-admin",
+              "title": "zammad-admin",
+              "description": "",
+              "source": "@site/docs/OSCAdmin/zammad-admin.md",
+              "sourceDirName": "OSCAdmin",
+              "slug": "/OSCAdmin/zammad-admin",
+              "permalink": "/OSCAdmin/zammad-admin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/zammad-admin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Zammad",
+                "sidebar_position": 4
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Zabbix",
+                "permalink": "/OSCAdmin/zabbix-admin"
+              },
+              "next": {
+                "title": "Uptime Kuma",
+                "permalink": "/OSCAdmin/uptime-kuma-admin"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/guide-client",
+              "id": "OSCClient/guide-client",
+              "title": "Documentation de formation - Guide Client",
+              "description": "Introduction",
+              "source": "@site/docs/OSCClient/guide-client.md",
+              "sourceDirName": "OSCClient",
+              "slug": "/OSCClient/guide-client",
+              "permalink": "/OSCClient/guide-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/guide-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Guide Client",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "OSCDocs - Client",
+                "permalink": "/category/oscdocs---client"
+              },
+              "next": {
+                "title": "Heimdall",
+                "permalink": "/category/heimdall"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Divers/en_construction",
+              "id": "OSCClient/Heimdall/Divers/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Divers/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Divers",
+              "slug": "/OSCClient/Heimdall/Divers/en_construction",
+              "permalink": "/OSCClient/Heimdall/Divers/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Divers/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Divers",
+                "permalink": "/category/divers"
+              },
+              "next": {
+                "title": "Partage de Fichiers",
+                "permalink": "/category/partage-de-fichiers"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/en_construction",
+              "id": "OSCClient/Heimdall/Finance/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/en_construction",
+              "permalink": "/OSCClient/Heimdall/Finance/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "test",
+                "permalink": "/OSCClient/Heimdall/Finance/test"
+              },
+              "next": {
+                "title": "Expenses",
+                "permalink": "/OSCClient/Heimdall/Finance/expenses"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/expenses",
+              "id": "OSCClient/Heimdall/Finance/expenses",
+              "title": "Expenses",
+              "description": "Odoo Expenses streamlines the management of expenses. After an",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/expenses.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/expenses",
+              "permalink": "/OSCClient/Heimdall/Finance/expenses",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/expenses.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+              },
+              "next": {
+                "title": "Ventes",
+                "permalink": "/category/ventes"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/note-de-frais-client",
+              "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+              "title": "Documentation de formation pour \"Notes de frais\"",
+              "description": "Introduction à la fonctionnalité de note de frais",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/note-de-frais-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+              "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/note-de-frais-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Notes de Frais",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Finance",
+                "permalink": "/category/finance"
+              },
+              "next": {
+                "title": "test",
+                "permalink": "/OSCClient/Heimdall/Finance/test"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Finance/test",
+              "id": "OSCClient/Heimdall/Finance/test",
+              "title": ":show-content:",
+              "description": "---",
+              "source": "@site/docs/OSCClient/Heimdall/Finance/test.md",
+              "sourceDirName": "OSCClient/Heimdall/Finance",
+              "slug": "/OSCClient/Heimdall/Finance/test",
+              "permalink": "/OSCClient/Heimdall/Finance/test",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/test.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "test",
+                "sidebar_position": 2
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Notes de Frais",
+                "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/heimdall-client",
+              "id": "OSCClient/Heimdall/heimdall-client",
+              "title": "Documentation de formation pour \"Heimdall\"",
+              "description": "Introduction",
+              "source": "@site/docs/OSCClient/Heimdall/heimdall-client.md",
+              "sourceDirName": "OSCClient/Heimdall",
+              "slug": "/OSCClient/Heimdall/heimdall-client",
+              "permalink": "/OSCClient/Heimdall/heimdall-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/heimdall-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_label": "Guide Heimdall",
+                "sidebar_position": 0
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Heimdall",
+                "permalink": "/category/heimdall"
+              },
+              "next": {
+                "title": "Finance",
+                "permalink": "/category/finance"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "id": "OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Inventaire & MRP/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Inventaire & MRP",
+              "slug": "/OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "permalink": "/OSCClient/Heimdall/Inventaire & MRP/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Inventaire & MRP/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Inventaire & MRP",
+                "permalink": "/category/inventaire--mrp"
+              },
+              "next": {
+                "title": "Ressources Humaines",
+                "permalink": "/category/ressources-humaines"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Marketing/en_construction",
+              "id": "OSCClient/Heimdall/Marketing/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Marketing/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Marketing",
+              "slug": "/OSCClient/Heimdall/Marketing/en_construction",
+              "permalink": "/OSCClient/Heimdall/Marketing/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Marketing/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Marketing",
+                "permalink": "/category/marketing"
+              },
+              "next": {
+                "title": "Services",
+                "permalink": "/category/services"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+              },
+              "next": {
+                "title": "Support & Assistance",
+                "permalink": "/category/support--assistance"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "title": "Documentation de formation pour \"Mes Fichiers\"",
+              "description": "Introduction à Nextcloud",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/fichiers-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/fichiers-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Mes Fichiers",
+                "sidebar_position": 4
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Partage de Fichiers",
+                "permalink": "/category/partage-de-fichiers"
+              },
+              "next": {
+                "title": "Nextcloud",
+                "permalink": "/category/nextcloud"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "title": "Accessing your files using the Nextcloud Web interface",
+              "description": "You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit, delete, share, and re-share files.",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Accessing your files using the Nextcloud Web interface",
+                "sidebar_position": 2
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Accessing your files using the Nextcloud Web interface",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "title": "Nextcloud",
+              "description": "Nextcloud latest user manual introduction",
+              "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud.md",
+              "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation",
+              "slug": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Nextcloud",
+                "permalink": "/category/nextcloud"
+              },
+              "next": {
+                "title": "Accessing your files using the Nextcloud Web interface",
+                "permalink": "/OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Productivité/en_construction",
+              "id": "OSCClient/Heimdall/Productivité/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Productivité/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Productivité",
+              "slug": "/OSCClient/Heimdall/Productivité/en_construction",
+              "permalink": "/OSCClient/Heimdall/Productivité/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Productivité/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Productivité",
+                "permalink": "/category/productivité"
+              },
+              "next": {
+                "title": "Divers",
+                "permalink": "/category/divers"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "id": "OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Ressources Humaines/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Ressources Humaines",
+              "slug": "/OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "permalink": "/OSCClient/Heimdall/Ressources Humaines/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ressources Humaines/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Ressources Humaines",
+                "permalink": "/category/ressources-humaines"
+              },
+              "next": {
+                "title": "Marketing",
+                "permalink": "/category/marketing"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Services/en_construction",
+              "id": "OSCClient/Heimdall/Services/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Services/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Services",
+              "slug": "/OSCClient/Heimdall/Services/en_construction",
+              "permalink": "/OSCClient/Heimdall/Services/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Services/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Services",
+                "permalink": "/category/services"
+              },
+              "next": {
+                "title": "Productivité",
+                "permalink": "/category/productivité"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Site Web/en_construction",
+              "id": "OSCClient/Heimdall/Site Web/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Site Web/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Site Web",
+              "slug": "/OSCClient/Heimdall/Site Web/en_construction",
+              "permalink": "/OSCClient/Heimdall/Site Web/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Site Web/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Site Web",
+                "permalink": "/OSCClient/Heimdall/Site Web/site-web-client"
+              },
+              "next": {
+                "title": "Inventaire & MRP",
+                "permalink": "/category/inventaire--mrp"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Site Web/site-web-client",
+              "id": "OSCClient/Heimdall/Site Web/site-web-client",
+              "title": "Documentation de formation pour \"Site Web\"",
+              "description": "Introduction",
+              "source": "@site/docs/OSCClient/Heimdall/Site Web/site-web-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Site Web",
+              "slug": "/OSCClient/Heimdall/Site Web/site-web-client",
+              "permalink": "/OSCClient/Heimdall/Site Web/site-web-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Site Web/site-web-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Site Web",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Site Web",
+                "permalink": "/category/site-web"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Site Web/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Support & Assistance/en_construction",
+              "id": "OSCClient/Heimdall/Support & Assistance/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Support & Assistance",
+              "slug": "/OSCClient/Heimdall/Support & Assistance/en_construction",
+              "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad"
+              },
               "next": {
                 "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "permalink": "/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "title": "Documentation de formation pour \"Support & Assistance\"",
+              "description": "Présentation de Zammad",
+              "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Support & Assistance",
+              "slug": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "permalink": "/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/support-et-assistance-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Guide",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Support & Assistance",
+                "permalink": "/category/support--assistance"
+              },
+              "next": {
+                "title": "Zammad",
+                "permalink": "/category/zammad"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "title": "About",
+              "description": "Zammad",
+              "source": "@site/docs/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad.md",
+              "sourceDirName": "OSCClient/Heimdall/Support & Assistance/Zammad",
+              "slug": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "permalink": "/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Zammad",
+                "permalink": "/category/zammad"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ventes/caisse-client",
+              "id": "OSCClient/Heimdall/Ventes/caisse-client",
+              "title": "Documentation de formation pour \"Caisse\"",
+              "description": "Présentation de la section Caisse",
+              "source": "@site/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
+              "sourceDirName": "OSCClient/Heimdall/Ventes",
+              "slug": "/OSCClient/Heimdall/Ventes/caisse-client",
+              "permalink": "/OSCClient/Heimdall/Ventes/caisse-client",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/caisse-client.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Caisse",
+                "sidebar_position": 1
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Ventes",
+                "permalink": "/category/ventes"
+              },
+              "next": {
+                "title": "Point of Sale",
+                "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ventes/en_construction",
+              "id": "OSCClient/Heimdall/Ventes/en_construction",
+              "title": "Documentation en cours de construction",
+              "description": "Nous sommes actuellement en train de construire la section documentation pour vous fournir les informations les plus complètes et pertinentes sur nos produits et services. Nous nous excusons pour ce désagrément et nous vous remercions de votre patience.",
+              "source": "@site/docs/OSCClient/Heimdall/Ventes/en_construction.md",
+              "sourceDirName": "OSCClient/Heimdall/Ventes",
+              "slug": "/OSCClient/Heimdall/Ventes/en_construction",
+              "permalink": "/OSCClient/Heimdall/Ventes/en_construction",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/en_construction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation en cours de construction"
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Point of Sale",
+                "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale"
+              },
+              "next": {
+                "title": "Site Web",
+                "permalink": "/category/site-web"
+              }
+            },
+            {
+              "unversionedId": "OSCClient/Heimdall/Ventes/point_of_sale",
+              "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+              "title": "Point of Sale",
+              "description": "With Odoo Point of Sale, run your shops and restaurants easily. The",
+              "source": "@site/docs/OSCClient/Heimdall/Ventes/point_of_sale.md",
+              "sourceDirName": "OSCClient/Heimdall/Ventes",
+              "slug": "/OSCClient/Heimdall/Ventes/point_of_sale",
+              "permalink": "/OSCClient/Heimdall/Ventes/point_of_sale",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Ventes/point_of_sale.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Point of Sale",
+                "sidebar_position": 2
+              },
+              "sidebar": "oscdocsSidebar",
+              "previous": {
+                "title": "Caisse",
+                "permalink": "/OSCClient/Heimdall/Ventes/caisse-client"
+              },
+              "next": {
+                "title": "Documentation en cours de construction",
+                "permalink": "/OSCClient/Heimdall/Ventes/en_construction"
+              }
+            },
+            {
+              "unversionedId": "oscdocs-intro",
+              "id": "oscdocs-intro",
+              "title": "OSCDocs Intro",
+              "description": "Bienvenue dans la documentation du site ! Cette page de présentation vous guidera à travers les différentes documentations disponibles pour vous aider à mieux comprendre le fonctionnement du site et à résoudre d'éventuels problèmes.",
+              "source": "@site/docs/oscdocs-intro.md",
+              "sourceDirName": ".",
+              "slug": "/oscdocs-intro",
+              "permalink": "/oscdocs-intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/oscdocs-intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "oscdocsSidebar",
+              "next": {
+                "title": "OSCDocs - Admin",
+                "permalink": "/category/oscdocs---admin"
               }
             },
             {
@@ -50,23 +1002,23 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "permalink": "/tutorial-basics/congratulations",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
                 "sidebar_position": 6
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "permalink": "/category/tutorial---extras"
               }
             },
             {
@@ -77,23 +1029,23 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/tutorial-basics/create-a-blog-post",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/tutorial-basics/markdown-features"
               }
             },
             {
@@ -104,23 +1056,23 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "permalink": "/tutorial-basics/create-a-document",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "permalink": "/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -131,23 +1083,23 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "permalink": "/tutorial-basics/create-a-page",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "permalink": "/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/tutorial-basics/create-a-document"
               }
             },
             {
@@ -158,23 +1110,23 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/tutorial-basics/deploy-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
                 "sidebar_position": 5
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "permalink": "/tutorial-basics/congratulations"
               }
             },
             {
@@ -185,23 +1137,23 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/tutorial-basics/markdown-features",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_position": 4
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -212,23 +1164,23 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/tutorial-extras/manage-docs-versions",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "permalink": "/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "permalink": "/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -239,28 +1191,414 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/tutorial-extras/translate-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "oscdocsSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/tutorial-extras/manage-docs-versions"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
-            "tutorialSidebar": [
+            "oscdocsSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "oscdocs-intro"
+              },
+              {
+                "type": "category",
+                "label": "OSCDocs - Admin",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/guide-admin",
+                    "label": "Guide Admin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/heimdall-admin",
+                    "label": "Heimdall"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/zabbix-admin",
+                    "label": "Zabbix"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/zammad-admin",
+                    "label": "Zammad"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/uptime-kuma-admin",
+                    "label": "Uptime Kuma"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/odoo-admin",
+                    "label": "Odoo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/portainer-admin",
+                    "label": "Portainer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/honey-pot-admin",
+                    "label": "Honey Pot"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/bitwarden-admin",
+                    "label": "Bitwarden"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "OSCAdmin/grafana_admin",
+                    "label": "Grafana"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Apprendre facilement à utiliser les outils côté admin pour améliorer nos performances !",
+                  "slug": "/category/oscdocs---admin",
+                  "permalink": "/category/oscdocs---admin"
+                }
+              },
+              {
+                "type": "category",
+                "label": "OSCDocs - Client",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "OSCClient/guide-client",
+                    "label": "Guide Client"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Heimdall",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "OSCClient/Heimdall/heimdall-client",
+                        "label": "Guide Heimdall"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Finance",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/note-de-frais-client",
+                            "label": "Notes de Frais"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/test",
+                            "label": "test"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/en_construction"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Finance/expenses"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/finance",
+                          "permalink": "/category/finance"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Ventes",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ventes/caisse-client",
+                            "label": "Caisse"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ventes/point_of_sale",
+                            "label": "Point of Sale"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ventes/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/ventes",
+                          "permalink": "/category/ventes"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Site Web",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Site Web/site-web-client",
+                            "label": "Site Web"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Site Web/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/site-web",
+                          "permalink": "/category/site-web"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Inventaire & MRP",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Inventaire & MRP/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/inventaire--mrp",
+                          "permalink": "/category/inventaire--mrp"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Ressources Humaines",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Ressources Humaines/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/ressources-humaines",
+                          "permalink": "/category/ressources-humaines"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Marketing",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Marketing/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/marketing",
+                          "permalink": "/category/marketing"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Services",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Services/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/services",
+                          "permalink": "/category/services"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Productivité",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Productivité/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/productivité",
+                          "permalink": "/category/productivité"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Divers",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Divers/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/divers",
+                          "permalink": "/category/divers"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Partage de Fichiers",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Partage de Fichiers/fichiers-client",
+                            "label": "Mes Fichiers"
+                          },
+                          {
+                            "type": "category",
+                            "label": "Nextcloud",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/guide_nextcloud",
+                                "label": "Introduction"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/accessing_files_using_wi",
+                                "label": "Accessing your files using the Nextcloud Web interface"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Partage de Fichiers/Nextcloud_files_&_synchronisation/en_construction"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                              "slug": "/category/nextcloud",
+                              "permalink": "/category/nextcloud"
+                            }
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Partage de Fichiers/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/partage-de-fichiers",
+                          "permalink": "/category/partage-de-fichiers"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Support & Assistance",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Support & Assistance/support-et-assistance-client",
+                            "label": "Guide"
+                          },
+                          {
+                            "type": "category",
+                            "label": "Zammad",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "OSCClient/Heimdall/Support & Assistance/Zammad/guide_zammad",
+                                "label": "Introduction"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                              "slug": "/category/zammad",
+                              "permalink": "/category/zammad"
+                            }
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OSCClient/Heimdall/Support & Assistance/en_construction"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                          "slug": "/category/support--assistance",
+                          "permalink": "/category/support--assistance"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                      "slug": "/category/heimdall",
+                      "permalink": "/category/heimdall"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+                  "slug": "/category/oscdocs---client",
+                  "permalink": "/category/oscdocs---client"
+                }
               },
               {
                 "type": "category",
@@ -297,7 +1635,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "permalink": "/category/tutorial---basics"
                 }
               },
               {
@@ -318,7 +1656,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "permalink": "/category/tutorial---extras"
                 }
               }
             ]
@@ -335,7 +1673,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -397,7 +1735,7 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/blog/mdx-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -435,17 +1773,85 @@
               "permalink": "/blog/welcome"
             },
             "nextItem": {
-              "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "title": "Greetings!",
+              "permalink": "/blog/greetings"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
         },
         {
+          "id": "greetings",
+          "metadata": {
+            "permalink": "/blog/greetings",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2021-02-28-greetings.md",
+            "source": "@site/blog/2021-02-28-greetings.md",
+            "title": "Greetings!",
+            "description": "Congratulations, you have made your first post!",
+            "date": "2021-02-28T00:00:00.000Z",
+            "formattedDate": "February 28, 2021",
+            "tags": [
+              {
+                "label": "greetings",
+                "permalink": "/blog/tags/greetings"
+              }
+            ],
+            "readingTime": 0.1,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Joel Marcey",
+                "title": "Co-creator of Docusaurus 1",
+                "url": "https://github.com/JoelMarcey",
+                "image_url": "https://github.com/JoelMarcey.png",
+                "imageURL": "https://github.com/JoelMarcey.png"
+              },
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "image_url": "https://github.com/slorber.png",
+                "imageURL": "https://github.com/slorber.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "greetings",
+              "title": "Greetings!",
+              "authors": [
+                {
+                  "name": "Joel Marcey",
+                  "title": "Co-creator of Docusaurus 1",
+                  "url": "https://github.com/JoelMarcey",
+                  "image_url": "https://github.com/JoelMarcey.png",
+                  "imageURL": "https://github.com/JoelMarcey.png"
+                },
+                {
+                  "name": "Sébastien Lorber",
+                  "title": "Docusaurus maintainer",
+                  "url": "https://sebastienlorber.com",
+                  "image_url": "https://github.com/slorber.png",
+                  "imageURL": "https://github.com/slorber.png"
+                }
+              ],
+              "tags": [
+                "greetings"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Congratulations, you have made your first post!\n\nFeel free to play around and edit this post as much you like."
+        },
+        {
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -482,8 +1888,8 @@
               ]
             },
             "prevItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "Greetings!",
+              "permalink": "/blog/greetings"
             },
             "nextItem": {
               "title": "First Blog Post",
@@ -496,7 +1902,7 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/blog/first-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -551,6 +1957,7 @@
           "items": [
             "welcome",
             "mdx-blog-post",
+            "greetings",
             "long-blog-post",
             "first-blog-post"
           ],
@@ -559,7 +1966,7 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 5,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }
@@ -643,6 +2050,29 @@
             }
           ]
         },
+        "/blog/tags/greetings": {
+          "label": "greetings",
+          "items": [
+            "greetings"
+          ],
+          "permalink": "/blog/tags/greetings",
+          "pages": [
+            {
+              "items": [
+                "greetings"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/greetings",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
         "/blog/tags/hola": {
           "label": "hola",
           "items": [
@@ -674,18 +2104,13 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
-        "source": "@site/src/pages/index.tsx"
+        "permalink": "/index%20copy",
+        "source": "@site/src/pages/index copy.tsx"
       },
       {
-        "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
-        "frontMatter": {
-          "title": "Markdown page example"
-        }
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
       }
     ]
   },

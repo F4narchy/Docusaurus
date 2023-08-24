@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Partage de Fichiers/guide_nextcloud",
+  "id": "OSCClient/Heimdall/Partage de Fichiers/guide_nextcloud",
+  "title": "Nextcloud",
+  "description": "Nextcloud latest user manual introduction",
+  "source": "@site/docs/OSCClient/Heimdall/Partage de Fichiers/guide_nextcloud.md",
+  "sourceDirName": "OSCClient/Heimdall/Partage de Fichiers",
+  "slug": "/OSCClient/Heimdall/Partage de Fichiers/guide_nextcloud",
+  "permalink": "/OSCClient/Heimdall/Partage de Fichiers/guide_nextcloud",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Partage de Fichiers/guide_nextcloud.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Partage de Fichiers/en_construction"
+  },
+  "next": {
+    "title": "OSCDocs - Support & Assistance",
+    "permalink": "/category/oscdocs---support--assistance"
+  }
+}

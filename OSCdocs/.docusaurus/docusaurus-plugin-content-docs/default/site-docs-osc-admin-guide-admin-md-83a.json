@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/guide-admin",
+  "id": "OSCAdmin/guide-admin",
+  "title": "Documentation de Heimdall pour l'Administrateur",
+  "description": "Bienvenue dans la documentation de Heimdall destinée aux administrateurs système. Cette documentation a pour objectif de vous guider dans la configuration et la mise en place de l'infrastructure nécessaire pour utiliser Heimdall de manière optimale.",
+  "source": "@site/docs/OSCAdmin/guide-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/guide-admin",
+  "permalink": "/OSCAdmin/guide-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/guide-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Guide Admin",
+    "sidebar_position": 1
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "OSCDocs - Admin",
+    "permalink": "/category/oscdocs---admin"
+  },
+  "next": {
+    "title": "Heimdall",
+    "permalink": "/OSCAdmin/heimdall-admin"
+  }
+}

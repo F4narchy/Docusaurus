@@ -1,0 +1,16 @@
+{
+  "title": "Finance",
+  "description": "Apprendre facilement à utiliser les outils côté client pour améliorer vos performances !",
+  "slug": "/category/finance",
+  "permalink": "/category/finance",
+  "navigation": {
+    "previous": {
+      "title": "Guide Heimdall",
+      "permalink": "/OSCClient/Heimdall/heimdall-client"
+    },
+    "next": {
+      "title": "Notes de Frais",
+      "permalink": "/OSCClient/Heimdall/Finance/note-de-frais-client"
+    }
+  }
+}

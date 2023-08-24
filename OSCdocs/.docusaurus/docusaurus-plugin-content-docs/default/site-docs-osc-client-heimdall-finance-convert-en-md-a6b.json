@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OSCClient/Heimdall/Finance/convert-en",
+  "id": "OSCClient/Heimdall/Finance/convert-en",
+  "title": "Expenses",
+  "description": "Odoo Expenses streamlines the management of expenses. After an",
+  "source": "@site/docs/OSCClient/Heimdall/Finance/convert-en.md",
+  "sourceDirName": "OSCClient/Heimdall/Finance",
+  "slug": "/OSCClient/Heimdall/Finance/convert-en",
+  "permalink": "/OSCClient/Heimdall/Finance/convert-en",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/Heimdall/Finance/convert-en.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "test",
+    "permalink": "/OSCClient/Heimdall/Finance/test"
+  },
+  "next": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Finance/en_construction"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "OSCDocs - Admin",
+  "description": "Apprendre facilement à utiliser les outils côté admin pour améliorer nos performances !",
+  "slug": "/category/oscdocs---admin",
+  "permalink": "/category/oscdocs---admin",
+  "navigation": {
+    "previous": {
+      "title": "OSCDocs Intro",
+      "permalink": "/oscdocs-intro"
+    },
+    "next": {
+      "title": "Guide Admin",
+      "permalink": "/OSCAdmin/guide-admin"
+    }
+  }
+}

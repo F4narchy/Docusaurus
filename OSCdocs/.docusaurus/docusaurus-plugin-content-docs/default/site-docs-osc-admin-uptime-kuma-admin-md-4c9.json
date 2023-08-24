@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCAdmin/uptime-kuma-admin",
+  "id": "OSCAdmin/uptime-kuma-admin",
+  "title": "uptime-kuma-admin",
+  "description": "",
+  "source": "@site/docs/OSCAdmin/uptime-kuma-admin.md",
+  "sourceDirName": "OSCAdmin",
+  "slug": "/OSCAdmin/uptime-kuma-admin",
+  "permalink": "/OSCAdmin/uptime-kuma-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCAdmin/uptime-kuma-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Uptime Kuma",
+    "sidebar_position": 5
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Zammad",
+    "permalink": "/OSCAdmin/zammad-admin"
+  },
+  "next": {
+    "title": "Odoo",
+    "permalink": "/OSCAdmin/odoo-admin"
+  }
+}

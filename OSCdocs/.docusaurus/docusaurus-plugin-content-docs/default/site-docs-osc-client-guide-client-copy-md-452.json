@@ -1,0 +1,28 @@
+{
+  "unversionedId": "OSCClient/guide-client-copy",
+  "id": "OSCClient/guide-client-copy",
+  "title": "Documentation de formation - Guide Client",
+  "description": "Introduction",
+  "source": "@site/docs/OSCClient/guide-client-copy.md",
+  "sourceDirName": "OSCClient",
+  "slug": "/OSCClient/guide-client-copy",
+  "permalink": "/OSCClient/guide-client-copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/OSCClient/guide-client-copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Guide utilisateur old",
+    "sidebar_position": 10
+  },
+  "sidebar": "oscdocsSidebar",
+  "previous": {
+    "title": "Documentation en cours de construction",
+    "permalink": "/OSCClient/Heimdall/Support & Assistance/en_construction"
+  },
+  "next": {
+    "title": "test",
+    "permalink": "/OSCClient/test"
+  }
+}
